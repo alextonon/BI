@@ -1,0 +1,188 @@
+journee,date,domicile,classement_dom,bonus_dom,score_dom,exterieur,classement_ext,bonus_ext,score_ext,score,lien_feuille_match
+j1,samedi 20 août,LOU Rugby,10e,,15,CA Brive,8e,,15,15 - 15,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7674-lyon-brive
+j1,samedi 20 août,Castres Olympique,5e,,28,Section Paloise,9e,,11,28 - 11,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7675-castres-pau
+j1,samedi 20 août,Union Bordeaux-Bègles,11e,,15,Racing 92,6e,,9,15 - 9,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7676-bordeaux-begles-racing-92
+j1,samedi 20 août,Stade Français Paris,7e,Bo,54,FC Grenoble Rugby,13e,,20,54 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7677-paris-grenoble
+j1,samedi 20 août,Stade Rochelais,1e,,30,ASM Clermont,2e,,30,30 - 30,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7678-la-rochelle-clermont
+j1,samedi 20 août,Stade Toulousain,12e,,20,Montpellier Hérault Rugby,3e,,12,20 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7679-toulouse-montpellier
+j1,dimanche 21 août,Aviron Bayonnais,14e,,28,RC Toulon,4e,Bd,23,28 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7680-bayonne-toulon
+j2,samedi 27 août,Section Paloise,9e,Bd,18,RC Toulon,4e,,22,18 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7681-pau-toulon
+j2,samedi 27 août,Aviron Bayonnais,14e,,12,Castres Olympique,5e,,12,12 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7682-bayonne-castres
+j2,samedi 27 août,CA Brive,8e,,28,Stade Français Paris,7e,,20,28 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7683-brive-paris
+j2,samedi 27 août,FC Grenoble Rugby,13e,Bd,19,Stade Rochelais,1e,,22,19 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7684-grenoble-la-rochelle
+j2,samedi 27 août,Racing 92,6e,Bo,29,LOU Rugby,10e,,16,29 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7685-racing-92-lyon
+j2,samedi 27 août,Stade Toulousain,12e,,22,Union Bordeaux-Bègles,11e,Bd,17,22 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7686-toulouse-bordeaux-begles
+j2,dimanche 28 août,Montpellier Hérault Rugby,3e,Bd,22,ASM Clermont,2e,,26,22 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7687-montpellier-clermont
+j3,samedi 03 septembre,Stade Français Paris,7e,,30,ASM Clermont,2e,,30,30 - 30,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7688-paris-clermont
+j3,samedi 03 septembre,LOU Rugby,10e,Bo,32,FC Grenoble Rugby,13e,,13,32 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7689-lyon-grenoble
+j3,samedi 03 septembre,Castres Olympique,5e,,18,Stade Rochelais,1e,,26,18 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7690-castres-la-rochelle
+j3,samedi 03 septembre,Section Paloise,9e,Bo,25,Aviron Bayonnais,14e,,9,25 - 9,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7691-pau-bayonne
+j3,samedi 03 septembre,RC Toulon,4e,Bd,21,CA Brive,8e,,25,21 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7692-toulon-brive
+j3,dimanche 04 septembre,Union Bordeaux-Bègles,11e,,15,Montpellier Hérault Rugby,3e,,32,15 - 32,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7693-bordeaux-begles-montpellier
+j3,dimanche 04 septembre,Racing 92,6e,,28,Stade Toulousain,12e,,14,28 - 14,https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7694-racing-92-toulouse
+j4,samedi 10 septembre,Stade Français Paris,7e,,29,Castres Olympique,5e,Bd,25,29 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7695-paris-castres
+j4,samedi 10 septembre,Montpellier Hérault Rugby,3e,Bo,41,Section Paloise,9e,,13,41 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7696-montpellier-pau
+j4,samedi 10 septembre,Union Bordeaux-Bègles,11e,,40,Aviron Bayonnais,14e,,20,40 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7697-bordeaux-begles-bayonne
+j4,samedi 10 septembre,Stade Rochelais,1e,Bo,43,LOU Rugby,10e,,18,43 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7698-la-rochelle-lyon
+j4,samedi 10 septembre,ASM Clermont,2e,Bo,47,Racing 92,6e,,10,47 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7699-clermont-racing-92
+j4,dimanche 11 septembre,FC Grenoble Rugby,13e,,36,CA Brive,8e,,23,36 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7700-grenoble-brive
+j4,dimanche 11 septembre,Stade Toulousain,12e,,15,RC Toulon,4e,Bo,32,15 - 32,https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7701-toulouse-toulon
+j5,samedi 17 septembre,LOU Rugby,10e,,25,Stade Toulousain,12e,Bd,20,25 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7702-lyon-toulouse
+j5,samedi 17 septembre,Aviron Bayonnais,14e,,9,Montpellier Hérault Rugby,3e,,21,9 - 21,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7703-bayonne-montpellier
+j5,samedi 17 septembre,CA Brive,8e,,29,Stade Rochelais,1e,Bd,28,29 - 28,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7704-brive-la-rochelle
+j5,samedi 17 septembre,Section Paloise,9e,,23,Stade Français Paris,7e,,6,23 - 6,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7705-pau-paris
+j5,samedi 17 septembre,ASM Clermont,2e,Bo,40,Union Bordeaux-Bègles,11e,,16,40 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7706-clermont-bordeaux-begles
+j5,dimanche 18 septembre,Castres Olympique,5e,Bo,46,FC Grenoble Rugby,13e,,9,46 - 9,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7707-castres-grenoble
+j5,dimanche 18 septembre,Racing 92,6e,Bo,41,RC Toulon,4e,,30,41 - 30,https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7708-racing-92-toulon
+j6,samedi 24 septembre,Castres Olympique,5e,,31,Racing 92,6e,,23,31 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7709-castres-racing-92
+j6,samedi 24 septembre,FC Grenoble Rugby,13e,Bd,38,Section Paloise,9e,,39,38 - 39,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7710-grenoble-pau
+j6,samedi 24 septembre,Union Bordeaux-Bègles,11e,Bo,32,LOU Rugby,10e,,10,32 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7711-bordeaux-begles-lyon
+j6,samedi 24 septembre,Stade Rochelais,1e,Bo,34,Aviron Bayonnais,14e,,17,34 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7712-la-rochelle-bayonne
+j6,samedi 24 septembre,Stade Toulousain,12e,,23,Stade Français Paris,7e,Bd,18,23 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7713-toulouse-paris
+j6,dimanche 25 septembre,Montpellier Hérault Rugby,3e,Bo,42,CA Brive,8e,,13,42 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7714-montpellier-brive
+j6,dimanche 25 septembre,RC Toulon,4e,,23,ASM Clermont,2e,Bd,21,23 - 21,https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7715-toulon-clermont
+j7,samedi 01 octobre,ASM Clermont,2e,,29,Castres Olympique,5e,,19,29 - 19,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7716-clermont-castres
+j7,samedi 01 octobre,Aviron Bayonnais,14e,,22,LOU Rugby,10e,,22,22 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7717-bayonne-lyon
+j7,samedi 01 octobre,Section Paloise,9e,Bd,28,Union Bordeaux-Bègles,11e,,30,28 - 30,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7718-pau-bordeaux-begles
+j7,samedi 01 octobre,Stade Toulousain,12e,Bo,31,FC Grenoble Rugby,13e,,3,31 - 3,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7719-toulouse-grenoble
+j7,samedi 01 octobre,CA Brive,8e,,25,Racing 92,6e,,16,25 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7720-brive-racing-92
+j7,dimanche 02 octobre,Stade Français Paris,7e,,31,Stade Rochelais,1e,Bd,26,31 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7721-paris-la-rochelle
+j7,dimanche 02 octobre,RC Toulon,4e,Bo,28,Montpellier Hérault Rugby,3e,,6,28 - 6,https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7722-toulon-montpellier
+j8,samedi 08 octobre,Racing 92,6e,,29,Stade Français Paris,7e,,22,29 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7723-racing-92-paris
+j8,samedi 08 octobre,FC Grenoble Rugby,13e,Bo,44,Aviron Bayonnais,14e,,16,44 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7724-grenoble-bayonne
+j8,samedi 08 octobre,Montpellier Hérault Rugby,3e,,28,Castres Olympique,5e,,19,28 - 19,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7725-montpellier-castres
+j8,samedi 08 octobre,Union Bordeaux-Bègles,11e,,27,CA Brive,8e,Bd,25,27 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7726-bordeaux-begles-brive
+j8,samedi 08 octobre,Stade Rochelais,1e,,17,RC Toulon,4e,,17,17 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7727-la-rochelle-toulon
+j8,dimanche 09 octobre,LOU Rugby,10e,,27,Section Paloise,9e,Bd,22,27 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7728-lyon-pau
+j8,dimanche 09 octobre,ASM Clermont,2e,,29,Stade Toulousain,12e,Bd,25,29 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7729-clermont-toulouse
+j9,samedi 29 octobre,Section Paloise,9e,Bd,20,Stade Toulousain,12e,,24,20 - 24,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7730-pau-toulouse
+j9,samedi 29 octobre,Montpellier Hérault Rugby,3e,,12,Stade Rochelais,1e,Bd,11,12 - 11,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7731-montpellier-la-rochelle
+j9,samedi 29 octobre,RC Toulon,4e,Bo,42,FC Grenoble Rugby,13e,,12,42 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7732-toulon-grenoble
+j9,samedi 29 octobre,Stade Français Paris,7e,,25,LOU Rugby,10e,,19,25 - 19,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7733-paris-lyon
+j9,samedi 29 octobre,Aviron Bayonnais,14e,,3,Racing 92,6e,,16,3 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7734-bayonne-racing-92
+j9,dimanche 30 octobre,Castres Olympique,5e,,33,Union Bordeaux-Bègles,11e,,27,33 - 27,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7735-castres-bordeaux-begles
+j9,dimanche 30 octobre,CA Brive,8e,,16,ASM Clermont,2e,Bo,40,16 - 40,https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7736-brive-clermont
+j10,samedi 05 novembre,Union Bordeaux-Bègles,11e,,37,Stade Français Paris,7e,,19,37 - 19,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7737-bordeaux-begles-paris
+j10,samedi 05 novembre,ASM Clermont,2e,,21,FC Grenoble Rugby,13e,Bd,20,21 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7738-clermont-grenoble
+j10,samedi 05 novembre,CA Brive,8e,,26,Aviron Bayonnais,14e,,9,26 - 9,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7739-brive-bayonne
+j10,samedi 05 novembre,Stade Toulousain,12e,,16,Castres Olympique,5e,Bd,15,16 - 15,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7740-toulouse-castres
+j10,samedi 05 novembre,Racing 92,6e,,21,Montpellier Hérault Rugby,3e,,9,21 - 9,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7741-racing-92-montpellier
+j10,dimanche 06 novembre,Stade Rochelais,1e,Bo,27,Section Paloise,9e,,6,27 - 6,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7742-la-rochelle-pau
+j10,dimanche 06 novembre,LOU Rugby,10e,,27,RC Toulon,4e,,13,27 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7743-lyon-toulon
+j11,samedi 12 novembre,Section Paloise,9e,,26,Racing 92,6e,,17,26 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7744-pau-racing-92
+j11,samedi 12 novembre,FC Grenoble Rugby,13e,Bd,22,Union Bordeaux-Bègles,11e,,24,22 - 24,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7745-grenoble-bordeaux-begles
+j11,samedi 12 novembre,Montpellier Hérault Rugby,3e,,25,LOU Rugby,10e,Bd,20,25 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7746-montpellier-lyon
+j11,samedi 12 novembre,Castres Olympique,5e,,32,CA Brive,8e,,13,32 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7747-castres-brive
+j11,samedi 12 novembre,Aviron Bayonnais,14e,,22,ASM Clermont,2e,,14,22 - 14,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7748-bayonne-clermont
+j11,dimanche 13 novembre,Stade Rochelais,1e,,25,Stade Toulousain,12e,,19,25 - 19,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7749-la-rochelle-toulouse
+j11,dimanche 13 novembre,RC Toulon,4e,,31,Stade Français Paris,7e,,12,31 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7750-toulon-paris
+j12,samedi 19 novembre,Castres Olympique,5e,Bo,34,RC Toulon,4e,,17,34 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7751-castres-toulon
+j12,samedi 19 novembre,ASM Clermont,2e,,16,LOU Rugby,10e,Bd,13,16 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7752-clermont-lyon
+j12,samedi 19 novembre,CA Brive,8e,,38,Section Paloise,9e,,25,38 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7753-brive-pau
+j12,samedi 19 novembre,Racing 92,6e,,29,FC Grenoble Rugby,13e,Bd,24,29 - 24,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7754-racing-92-grenoble
+j12,samedi 19 novembre,Union Bordeaux-Bègles,11e,,26,Stade Rochelais,1e,,0,26 - 0,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7755-bordeaux-begles-la-rochelle
+j12,dimanche 20 novembre,Stade Français Paris,7e,,21,Montpellier Hérault Rugby,3e,Bd,17,21 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7756-paris-montpellier
+j12,dimanche 20 novembre,Aviron Bayonnais,14e,,16,Stade Toulousain,12e,Bd,13,16 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7757-bayonne-toulouse
+j13,samedi 03 décembre,Section Paloise,9e,,40,ASM Clermont,2e,Bd,35,40 - 35,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7758-pau-clermont
+j13,samedi 03 décembre,FC Grenoble Rugby,13e,,37,Montpellier Hérault Rugby,3e,Bo,51,37 - 51,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7759-grenoble-montpellier
+j13,samedi 03 décembre,LOU Rugby,10e,Bd,19,Castres Olympique,5e,,23,19 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7760-lyon-castres
+j13,samedi 03 décembre,Stade Français Paris,7e,Bo,51,Aviron Bayonnais,14e,,5,51 - 5,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7761-paris-bayonne
+j13,samedi 03 décembre,Stade Rochelais,1e,,23,Racing 92,6e,,23,23 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7762-la-rochelle-racing-92
+j13,dimanche 04 décembre,Stade Toulousain,12e,Bo,30,CA Brive,8e,,12,30 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7763-toulouse-brive
+j13,dimanche 04 décembre,RC Toulon,4e,Bo,37,Union Bordeaux-Bègles,11e,,10,37 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7764-toulon-bordeaux-begles
+j14,jeudi 22 décembre,FC Grenoble Rugby,13e,,26,Stade Toulousain,12e,Bd,22,26 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7765-grenoble-toulouse
+j14,vendredi 23 décembre,CA Brive,8e,,22,LOU Rugby,10e,,6,22 - 6,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7766-brive-lyon
+j14,vendredi 23 décembre,ASM Clermont,2e,Bo,46,Stade Français Paris,7e,,10,46 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7767-clermont-paris
+j14,vendredi 23 décembre,Aviron Bayonnais,14e,,17,Stade Rochelais,1e,Bo,42,17 - 42,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7768-bayonne-la-rochelle
+j14,vendredi 23 décembre,Racing 92,6e,,23,Castres Olympique,5e,,10,23 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7769-racing-92-castres
+j14,vendredi 23 décembre,Union Bordeaux-Bègles,11e,Bd,16,Section Paloise,9e,,18,16 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7770-bordeaux-begles-pau
+j14,vendredi 23 décembre,Montpellier Hérault Rugby,3e,,33,RC Toulon,4e,Bd,29,33 - 29,https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7771-montpellier-toulon
+j15,vendredi 30 décembre,LOU Rugby,10e,,19,Union Bordeaux-Bègles,11e,Bd,16,19 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7772-lyon-bordeaux-begles
+j15,samedi 31 décembre,Section Paloise,9e,,32,Montpellier Hérault Rugby,3e,Bd,27,32 - 27,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7773-pau-montpellier
+j15,samedi 31 décembre,Castres Olympique,5e,Bo,47,Aviron Bayonnais,14e,,18,47 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7774-castres-bayonne
+j15,samedi 31 décembre,Stade Français Paris,7e,,12,CA Brive,8e,Bd,10,12 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7775-paris-brive
+j15,samedi 31 décembre,Stade Toulousain,12e,,26,ASM Clermont,2e,,20,26 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7776-toulouse-clermont
+j15,dimanche 01 janvier,Stade Rochelais,1e,Bo,40,FC Grenoble Rugby,13e,,3,40 - 3,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7777-la-rochelle-grenoble
+j15,dimanche 01 janvier,RC Toulon,4e,,17,Racing 92,6e,,11,17 - 11,https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7778-toulon-racing-92
+j16,vendredi 06 janvier,Montpellier Hérault Rugby,3e,,31,Union Bordeaux-Bègles,11e,Bd,26,31 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7779-montpellier-bordeaux-begles
+j16,samedi 07 janvier,CA Brive,8e,,23,FC Grenoble Rugby,13e,Bd,22,23 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7780-brive-grenoble
+j16,samedi 07 janvier,Stade Rochelais,1e,,22,Castres Olympique,5e,,8,22 - 8,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7781-la-rochelle-castres
+j16,dimanche 08 janvier,Stade Français Paris,7e,Bd,15,Stade Toulousain,12e,,18,15 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7782-paris-toulouse
+j16,dimanche 08 janvier,ASM Clermont,2e,Bo,30,RC Toulon,4e,,6,30 - 6,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7783-clermont-toulon
+j16,samedi 11 février,Racing 92,6e,Bo,59,Aviron Bayonnais,14e,,20,59 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7784-racing-92-bayonne
+j16,dimanche 12 février,Section Paloise,9e,Bo,38,LOU Rugby,10e,,15,38 - 15,https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7785-pau-lyon
+j17,samedi 28 janvier,RC Toulon,4e,Bd,20,Stade Rochelais,1e,,23,20 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7786-toulon-la-rochelle
+j17,samedi 28 janvier,FC Grenoble Rugby,13e,,44,Stade Français Paris,7e,,22,44 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7787-grenoble-paris
+j17,samedi 28 janvier,Castres Olympique,5e,,38,Montpellier Hérault Rugby,3e,,25,38 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7788-castres-montpellier
+j17,samedi 28 janvier,Stade Toulousain,12e,,10,Section Paloise,9e,,20,10 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7789-toulouse-pau
+j17,samedi 28 janvier,LOU Rugby,10e,Bo,37,Racing 92,6e,,25,37 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7790-lyon-racing-92
+j17,dimanche 29 janvier,Aviron Bayonnais,14e,,33,CA Brive,8e,,23,33 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7791-bayonne-brive
+j17,dimanche 29 janvier,Union Bordeaux-Bègles,11e,,23,ASM Clermont,2e,,23,23 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7792-bordeaux-begles-clermont
+j18,samedi 18 février,Stade Rochelais,1e,,37,Stade Français Paris,7e,,18,37 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7793-la-rochelle-paris
+j18,samedi 18 février,ASM Clermont,2e,Bo,46,Aviron Bayonnais,14e,,27,46 - 27,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7794-clermont-bayonne
+j18,samedi 18 février,Racing 92,6e,,33,CA Brive,8e,,25,33 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7795-racing-92-brive
+j18,samedi 18 février,Section Paloise,9e,,39,FC Grenoble Rugby,13e,,22,39 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7796-pau-grenoble
+j18,samedi 18 février,RC Toulon,4e,,31,LOU Rugby,10e,,17,31 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7797-toulon-lyon
+j18,dimanche 19 février,Union Bordeaux-Bègles,11e,,17,Castres Olympique,5e,,29,17 - 29,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7798-bordeaux-begles-castres
+j18,dimanche 19 février,Montpellier Hérault Rugby,3e,,27,Stade Toulousain,12e,,18,27 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7799-montpellier-toulouse
+j19,samedi 04 mars,Castres Olympique,5e,,26,ASM Clermont,2e,,16,26 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7800-castres-clermont
+j19,samedi 04 mars,Aviron Bayonnais,14e,,25,Section Paloise,9e,,25,25 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7801-bayonne-pau
+j19,samedi 04 mars,FC Grenoble Rugby,13e,,19,Racing 92,6e,,10,19 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7802-grenoble-racing-92
+j19,samedi 04 mars,CA Brive,8e,,15,RC Toulon,4e,,5,15 - 5,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7803-brive-toulon
+j19,dimanche 05 mars,LOU Rugby,10e,,16,Montpellier Hérault Rugby,3e,,3,16 - 3,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7804-lyon-montpellier
+j19,dimanche 05 mars,Stade Français Paris,7e,Bo,32,Union Bordeaux-Bègles,11e,,9,32 - 9,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7805-paris-bordeaux-begles
+j19,dimanche 05 mars,Stade Toulousain,12e,,21,Stade Rochelais,1e,,27,21 - 27,https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7806-toulouse-la-rochelle
+j20,samedi 11 mars,LOU Rugby,10e,,35,Stade Français Paris,7e,Bd,33,35 - 33,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7807-lyon-paris
+j20,samedi 11 mars,RC Toulon,4e,Bo,82,Aviron Bayonnais,14e,,14,82 - 14,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7808-toulon-bayonne
+j20,samedi 11 mars,Union Bordeaux-Bègles,11e,Bo,46,FC Grenoble Rugby,13e,,14,46 - 14,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7809-bordeaux-begles-grenoble
+j20,samedi 11 mars,CA Brive,8e,,21,Stade Toulousain,12e,Bd,19,21 - 19,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7810-brive-toulouse
+j20,samedi 11 mars,Racing 92,6e,,15,Stade Rochelais,1e,,38,15 - 38,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7811-racing-92-la-rochelle
+j20,dimanche 12 mars,Section Paloise,9e,,18,Castres Olympique,5e,,12,18 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7812-pau-castres
+j20,dimanche 12 mars,ASM Clermont,2e,,19,Montpellier Hérault Rugby,3e,Bo,28,19 - 28,https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7813-clermont-montpellier
+j21,samedi 18 mars,ASM Clermont,2e,Bo,65,Section Paloise,9e,,13,65 - 13,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7814-clermont-pau
+j21,samedi 18 mars,Aviron Bayonnais,14e,,24,Union Bordeaux-Bègles,11e,Bd,20,24 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7815-bayonne-bordeaux-begles
+j21,samedi 18 mars,Stade Rochelais,1e,Bo,36,CA Brive,8e,,17,36 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7816-la-rochelle-brive
+j21,dimanche 19 mars,Stade Toulousain,12e,,42,LOU Rugby,10e,,26,42 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7817-toulouse-lyon
+j21,dimanche 19 mars,FC Grenoble Rugby,13e,,23,RC Toulon,4e,,23,23 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7818-grenoble-toulon
+j21,mercredi 19 avril,Castres Olympique,5e,Bo,33,Stade Français Paris,7e,,10,33 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7819-castres-paris
+j21,samedi 22 avril,Montpellier Hérault Rugby,3e,Bo,54,Racing 92,6e,,3,54 - 3,https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7820-montpellier-racing-92
+j22,samedi 25 mars,Racing 92,6e,,27,ASM Clermont,2e,Bd,24,27 - 24,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7821-racing-92-clermont
+j22,samedi 25 mars,FC Grenoble Rugby,13e,,21,Castres Olympique,5e,Bd,20,21 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7822-grenoble-castres
+j22,samedi 25 mars,LOU Rugby,10e,Bo,52,Aviron Bayonnais,14e,,7,52 - 7,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7823-lyon-bayonne
+j22,samedi 25 mars,Section Paloise,9e,,13,Stade Rochelais,1e,,23,13 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7824-pau-la-rochelle
+j22,samedi 25 mars,Union Bordeaux-Bègles,11e,,20,Stade Toulousain,12e,,11,20 - 11,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7825-bordeaux-begles-toulouse
+j22,dimanche 26 mars,CA Brive,8e,,28,Montpellier Hérault Rugby,3e,Bd,25,28 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7826-brive-montpellier
+j22,dimanche 26 mars,Stade Français Paris,7e,,17,RC Toulon,4e,,11,17 - 11,https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7827-paris-toulon
+j23,samedi 08 avril,Stade Rochelais,1e,,16,Union Bordeaux-Bègles,11e,,5,16 - 5,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7828-la-rochelle-bordeaux-begles
+j23,samedi 08 avril,Aviron Bayonnais,14e,,16,Stade Français Paris,7e,Bo,32,16 - 32,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7829-bayonne-paris
+j23,samedi 08 avril,Montpellier Hérault Rugby,3e,Bo,54,FC Grenoble Rugby,13e,,14,54 - 14,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7830-montpellier-grenoble
+j23,samedi 08 avril,Castres Olympique,5e,Bd,16,LOU Rugby,10e,,17,16 - 17,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7831-castres-lyon
+j23,samedi 08 avril,ASM Clermont,2e,Bd,21,CA Brive,8e,,26,21 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7832-clermont-brive
+j23,dimanche 09 avril,Racing 92,6e,,34,Section Paloise,9e,Bd,32,34 - 32,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7833-racing-92-pau
+j23,dimanche 09 avril,RC Toulon,4e,,33,Stade Toulousain,12e,,23,33 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7834-toulon-toulouse
+j24,samedi 15 avril,RC Toulon,4e,,23,Castres Olympique,5e,,14,23 - 14,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7835-toulon-castres
+j24,samedi 15 avril,CA Brive,8e,Bd,19,Union Bordeaux-Bègles,11e,,22,19 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7836-brive-bordeaux-begles
+j24,samedi 15 avril,FC Grenoble Rugby,13e,,18,ASM Clermont,2e,Bo,59,18 - 59,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7837-grenoble-clermont
+j24,samedi 15 avril,Stade Français Paris,7e,Bo,51,Section Paloise,9e,,16,51 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7838-paris-pau
+j24,samedi 15 avril,LOU Rugby,10e,,29,Stade Rochelais,1e,Bd,25,29 - 25,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7839-lyon-la-rochelle
+j24,dimanche 16 avril,Montpellier Hérault Rugby,3e,Bo,61,Aviron Bayonnais,14e,,22,61 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7840-montpellier-bayonne
+j24,dimanche 16 avril,Stade Toulousain,12e,Bd,8,Racing 92,6e,,10,8 - 10,https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7841-toulouse-racing-92
+j25,samedi 29 avril,Castres Olympique,5e,Bo,52,Stade Toulousain,12e,,7,52 - 7,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7842-castres-toulouse
+j25,samedi 29 avril,Aviron Bayonnais,14e,,43,FC Grenoble Rugby,13e,,35,43 - 35,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7843-bayonne-grenoble
+j25,samedi 29 avril,LOU Rugby,10e,Bd,20,ASM Clermont,2e,,23,20 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7844-lyon-clermont
+j25,samedi 29 avril,Section Paloise,9e,,32,CA Brive,8e,Bd,27,32 - 27,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7845-pau-brive
+j25,samedi 29 avril,Union Bordeaux-Bègles,11e,,13,RC Toulon,4e,,26,13 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7846-bordeaux-begles-toulon
+j25,dimanche 30 avril,Stade Rochelais,1e,,40,Montpellier Hérault Rugby,3e,Bd,37,40 - 37,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7847-la-rochelle-montpellier
+j25,dimanche 30 avril,Stade Français Paris,7e,,27,Racing 92,6e,Bd,23,27 - 23,https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7848-paris-racing-92
+j26,samedi 06 mai,ASM Clermont,2e,,30,Stade Rochelais,1e,Bd,26,30 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7849-clermont-la-rochelle
+j26,samedi 06 mai,CA Brive,8e,,33,Castres Olympique,5e,,27,33 - 27,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7850-brive-castres
+j26,samedi 06 mai,FC Grenoble Rugby,13e,Bo,53,LOU Rugby,10e,,21,53 - 21,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7851-grenoble-lyon
+j26,samedi 06 mai,Montpellier Hérault Rugby,3e,,27,Stade Français Paris,7e,Bd,26,27 - 26,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7852-montpellier-paris
+j26,samedi 06 mai,Racing 92,6e,,22,Union Bordeaux-Bègles,11e,Bd,20,22 - 20,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7853-racing-92-bordeaux-begles
+j26,samedi 06 mai,RC Toulon,4e,,32,Section Paloise,9e,,12,32 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7854-toulon-pau
+j26,samedi 06 mai,Stade Toulousain,12e,Bo,40,Aviron Bayonnais,14e,,12,40 - 12,https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7855-toulouse-bayonne
+barrages,vendredi 19 mai,RC Toulon,4e,,26,Castres Olympique,5e,,22,26 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/barrages/7856-toulon-castres
+barrages,samedi 20 mai,Montpellier Hérault Rugby,3e,,13,Racing 92,6e,,22,13 - 22,https://top14.lnr.fr/feuille-de-match/2016-2017/barrages/7857-montpellier-racing-92
+demi-finales,vendredi 26 mai,Stade Rochelais,1e,,15,RC Toulon,4e,,18,15 - 18,https://top14.lnr.fr/feuille-de-match/2016-2017/demi-finales/7858-la-rochelle-toulon
+demi-finales,samedi 27 mai,ASM Clermont,2e,,37,Racing 92,6e,,31,37 - 31,https://top14.lnr.fr/feuille-de-match/2016-2017/demi-finales/7859-clermont-racing-92
+finale,dimanche 04 juin,ASM Clermont,2e,,22,RC Toulon,4e,,16,22 - 16,https://top14.lnr.fr/feuille-de-match/2016-2017/finale/7860-clermont-toulon

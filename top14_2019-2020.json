@@ -1,0 +1,2148 @@
+{
+  "saison": "2019-2020",
+  "total_matchs": 119,
+  "matchs": [
+    {
+      "journee": "j1",
+      "date": "samedi 24 août",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "26 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8976-castres-montpellier"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 24 août",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "43"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "43 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8977-lyon-paris"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 24 août",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "17 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8978-racing-92-bayonne"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 24 août",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "33 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8979-pau-brive"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 24 août",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "44"
+      },
+      "score": "25 - 44",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8980-agen-toulon"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 24 août",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "30 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8981-bordeaux-begles-toulouse"
+    },
+    {
+      "journee": "j1",
+      "date": "dimanche 25 août",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "28 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j1/8982-clermont-la-rochelle"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 31 août",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "34"
+      },
+      "score": "30 - 34",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8983-bayonne-clermont"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 31 août",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "43"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "43 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8984-montpellier-pau"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 31 août",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "28 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8985-la-rochelle-paris"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 31 août",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "16 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8986-agen-brive"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 31 août",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "34 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8987-bordeaux-begles-toulon"
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 01 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "23 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8988-racing-92-castres"
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 01 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "22 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j2/8989-lyon-toulouse"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 07 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "34"
+      },
+      "score": "32 - 34",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8990-castres-bordeaux-begles"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 07 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "6"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "6 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8991-toulon-lyon"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 07 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "30 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8992-montpellier-la-rochelle"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 07 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "18 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8993-pau-agen"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 07 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "33 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8994-paris-bayonne"
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 08 septembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "28 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8995-brive-clermont"
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 08 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "17"
+      },
+      "score": "20 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j3/8996-toulouse-racing-92"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 14 septembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "28 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/8997-la-rochelle-toulouse"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 14 septembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "37"
+      },
+      "score": "28 - 37",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/8998-clermont-pau"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 14 septembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "27 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/8999-bayonne-castres"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 14 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "59"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "59 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/9000-lyon-brive"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 14 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "52 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/9001-bordeaux-begles-paris"
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 15 septembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "29 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/9002-agen-montpellier"
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 15 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "29"
+      },
+      "score": "32 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j4/9003-toulon-racing-92"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 28 septembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "39"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "39 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9004-brive-toulon"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 28 septembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "score": "23 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9005-bayonne-la-rochelle"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 28 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "score": "30 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9006-castres-agen"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 28 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "score": "24 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9007-toulouse-pau"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 28 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "31"
+      },
+      "score": "20 - 31",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9008-racing-92-lyon"
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 29 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "17 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9009-montpellier-bordeaux-begles"
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 29 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "32"
+      },
+      "score": "18 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j5/9010-paris-clermont"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 05 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "20 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9011-clermont-montpellier"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 05 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "23 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9012-brive-toulouse"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 05 octobre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "46"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "46 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9013-castres-paris"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 05 octobre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "27 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9014-agen-bayonne"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 05 octobre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "score": "25 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9015-lyon-bordeaux-begles"
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 06 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "3"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "31"
+      },
+      "score": "3 - 31",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9016-pau-racing-92"
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 06 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "23 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j6/9017-toulon-la-rochelle"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 12 octobre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "score": "28 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9018-bayonne-montpellier"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 12 octobre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "36 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9019-toulouse-castres"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 12 octobre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "27 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9020-lyon-pau"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 12 octobre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "27 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9021-racing-92-agen"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 12 octobre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "41 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9022-la-rochelle-brive"
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 13 octobre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "30"
+      },
+      "score": "33 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9023-paris-toulon"
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 13 octobre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "42 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j7/9024-bordeaux-begles-clermont"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 19 octobre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "33 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9025-montpellier-toulouse"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 19 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": "Bo",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "30 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9026-brive-bordeaux-begles"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 19 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "20 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9027-toulon-bayonne"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 19 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "37 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9028-pau-castres"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 19 octobre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "27 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9029-agen-paris"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 19 octobre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "12 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9030-la-rochelle-racing-92"
+    },
+    {
+      "journee": "j8",
+      "date": "dimanche 20 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "24 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j8/9031-clermont-lyon"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 09 novembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "19 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9032-toulon-montpellier"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 09 novembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "3"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "3 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9033-bayonne-pau"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 09 novembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "28 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9034-castres-brive"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 09 novembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "23 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9035-bordeaux-begles-agen"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 09 novembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "34 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9036-toulouse-clermont"
+    },
+    {
+      "journee": "j9",
+      "date": "dimanche 10 novembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "45"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "45 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9037-lyon-la-rochelle"
+    },
+    {
+      "journee": "j9",
+      "date": "dimanche 10 novembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "25"
+      },
+      "score": "9 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j9/9038-paris-racing-92"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 30 novembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "34"
+      },
+      "score": "30 - 34",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9039-racing-92-bordeaux-begles"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 30 novembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "30 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9040-clermont-agen"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 30 novembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "9 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9041-pau-toulon"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 30 novembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "22 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9042-la-rochelle-castres"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 30 novembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "33 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9043-montpellier-lyon"
+    },
+    {
+      "journee": "j10",
+      "date": "dimanche 01 décembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "21"
+      },
+      "score": "26 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9044-brive-paris"
+    },
+    {
+      "journee": "j10",
+      "date": "dimanche 01 décembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "45"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "45 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j10/9045-toulouse-bayonne"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 21 décembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "6"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "6 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9046-bayonne-brive"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 21 décembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "29 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9047-castres-lyon"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 21 décembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "29 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9048-racing-92-montpellier"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 21 décembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "8"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "8 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9049-agen-toulouse"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 22 décembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "18"
+      },
+      "score": "21 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9050-paris-pau"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 22 décembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "15"
+      },
+      "score": "20 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9051-bordeaux-begles-la-rochelle"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 22 décembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "41 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j11/9052-toulon-clermont"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 28 décembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "52 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9053-lyon-bayonne"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 28 décembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "44"
+      },
+      "score": "20 - 44",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9054-brive-racing-92"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 28 décembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "20 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9055-montpellier-paris"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 29 décembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "23 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9056-pau-bordeaux-begles"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 29 décembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "40 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9057-la-rochelle-agen"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 29 décembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "39"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "39 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9058-clermont-castres"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 29 décembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "13 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j12/9059-toulouse-toulon"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 04 janvier",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "12 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9060-agen-lyon"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 04 janvier",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "27 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9061-racing-92-clermont"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 04 janvier",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "29 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9062-montpellier-brive"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 04 janvier",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "44"
+      },
+      "score": "13 - 44",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9063-pau-la-rochelle"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 04 janvier",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "22 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9064-bordeaux-begles-bayonne"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 05 janvier",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "43"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "43 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9065-toulon-castres"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 05 janvier",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "30 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j13/9066-paris-toulouse"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 25 janvier",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "27 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9067-lyon-toulon"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 25 janvier",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "33 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9068-brive-pau"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 25 janvier",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "0"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "27"
+      },
+      "score": "0 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9069-castres-racing-92"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 25 janvier",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "35"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "30"
+      },
+      "score": "35 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9070-la-rochelle-montpellier"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 25 janvier",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "29 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9071-clermont-paris"
+    },
+    {
+      "journee": "j14",
+      "date": "dimanche 26 janvier",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "22 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9072-bayonne-agen"
+    },
+    {
+      "journee": "j14",
+      "date": "dimanche 26 janvier",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "22 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j14/9073-toulouse-bordeaux-begles"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 15 février",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "37 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9074-bordeaux-begles-lyon"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 15 février",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "29"
+      },
+      "score": "31 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9075-montpellier-bayonne"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 15 février",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "34 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9076-toulon-brive"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 15 février",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "20 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9077-pau-clermont"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 15 février",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "21 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9078-paris-la-rochelle"
+    },
+    {
+      "journee": "j15",
+      "date": "dimanche 16 février",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "43"
+      },
+      "score": "24 - 43",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9079-agen-castres"
+    },
+    {
+      "journee": "j15",
+      "date": "dimanche 16 février",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "score": "30 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j15/9080-racing-92-toulouse"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 22 février",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "12"
+      },
+      "score": "17 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9081-la-rochelle-toulon"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 22 février",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "28 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9082-bayonne-paris"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 22 février",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "16 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9083-brive-agen"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 22 février",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "26 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9084-castres-pau"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 22 février",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "31"
+      },
+      "score": "22 - 31",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9085-clermont-bordeaux-begles"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 23 février",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "29 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9086-lyon-racing-92"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 23 février",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "25 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j16/9087-toulouse-montpellier"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 29 février",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "49"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "49 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9088-racing-92-la-rochelle"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 29 février",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "9e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "7e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "20 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9089-bayonne-toulouse"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 29 février",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "15"
+      },
+      "score": "19 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9090-pau-montpellier"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 29 février",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "13e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "score": "15 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9091-agen-clermont"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 29 février",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "2e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "30 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9092-brive-lyon"
+    },
+    {
+      "journee": "j17",
+      "date": "dimanche 01 mars",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "1e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "score": "26 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9093-bordeaux-begles-castres"
+    },
+    {
+      "journee": "j17",
+      "date": "dimanche 01 mars",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "18"
+      },
+      "score": "19 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2019-2020/j17/9094-toulon-paris"
+    }
+  ]
+}

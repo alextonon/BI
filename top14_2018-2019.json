@@ -1,0 +1,3390 @@
+{
+  "saison": "2018-2019",
+  "total_matchs": 188,
+  "matchs": [
+    {
+      "journee": "j1",
+      "date": "samedi 25 août",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "46"
+      },
+      "score": "15 - 46",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8541-perpignan-paris"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 25 août",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "67"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "67 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8542-clermont-agen"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 25 août",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "16 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8543-lyon-toulouse"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 25 août",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "28 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8544-la-rochelle-grenoble"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 25 août",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "41 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8545-bordeaux-begles-pau"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 25 août",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "25"
+      },
+      "score": "9 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8546-toulon-racing-92"
+    },
+    {
+      "journee": "j1",
+      "date": "dimanche 26 août",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "20 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8547-montpellier-castres"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 01 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "20 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8548-pau-toulon"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 01 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "16"
+      },
+      "score": "19 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8549-castres-lyon"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 01 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "36 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8550-montpellier-la-rochelle"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 01 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "20 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8551-paris-bordeaux-begles"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 01 septembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "20 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8552-grenoble-toulouse"
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 02 septembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "score": "25 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8553-agen-perpignan"
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 02 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "40"
+      },
+      "score": "17 - 40",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8554-racing-92-clermont"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 08 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "9 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8555-bordeaux-begles-montpellier"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 08 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "33 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8556-toulouse-la-rochelle"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 08 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "59"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "59 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8557-racing-92-agen"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 08 septembre",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "16 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8558-perpignan-lyon"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 08 septembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "42 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8559-clermont-paris"
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 09 septembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "21 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8560-grenoble-pau"
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 09 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "score": "28 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8561-toulon-castres"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 15 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "55"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "55 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8562-lyon-montpellier"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 15 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "29 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8563-castres-grenoble"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 15 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "23 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8564-pau-clermont"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 15 septembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "17"
+      },
+      "score": "22 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8565-agen-bordeaux-begles"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 15 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "30 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8566-toulouse-racing-92"
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 16 septembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "37 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8567-la-rochelle-perpignan"
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 16 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "37 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8568-paris-toulon"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 22 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "score": "23 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8569-bordeaux-begles-clermont"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 22 septembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "31 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8570-grenoble-perpignan"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 22 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "33 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8571-toulon-agen"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 22 septembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "30 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8572-la-rochelle-lyon"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 22 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "27 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8573-racing-92-castres"
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 23 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "13 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8574-pau-paris"
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 23 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "66"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "66 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8575-montpellier-toulouse"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 29 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "22 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8576-toulouse-castres"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 29 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "34 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8577-lyon-grenoble"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 29 septembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "25 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8578-agen-pau"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 29 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "34 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8579-bordeaux-begles-la-rochelle"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 29 septembre",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "20 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8580-perpignan-montpellier"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 29 septembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "28 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8581-clermont-toulon"
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 30 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "16 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8582-paris-racing-92"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 06 octobre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "12"
+      },
+      "score": "16 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8583-la-rochelle-clermont"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 06 octobre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "28 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8584-grenoble-bordeaux-begles"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 06 octobre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "13 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8585-racing-92-lyon"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 06 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "9"
+      },
+      "score": "12 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8586-pau-perpignan"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 06 octobre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "10"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "10 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8587-toulouse-agen"
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 07 octobre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "9 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8588-castres-paris"
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 07 octobre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "29 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8589-montpellier-toulon"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 27 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "41 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8590-clermont-castres"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 27 octobre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "48"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "48 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8591-racing-92-pau"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 27 octobre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "9 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8592-agen-grenoble"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 27 octobre",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "score": "18 - 36",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8593-perpignan-toulouse"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 27 octobre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "25 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8594-paris-montpellier"
+    },
+    {
+      "journee": "j8",
+      "date": "dimanche 28 octobre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "35"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "35 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8595-bordeaux-begles-lyon"
+    },
+    {
+      "journee": "j8",
+      "date": "dimanche 28 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "9 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8596-toulon-la-rochelle"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 03 novembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "27 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8597-grenoble-clermont"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 03 novembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "37 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8598-castres-pau"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 03 novembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "26 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8599-toulon-perpignan"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 03 novembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "29"
+      },
+      "score": "33 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8600-la-rochelle-agen"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 03 novembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "40 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8601-toulouse-bordeaux-begles"
+    },
+    {
+      "journee": "j9",
+      "date": "dimanche 04 novembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "41 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8602-lyon-paris"
+    },
+    {
+      "journee": "j9",
+      "date": "dimanche 04 novembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "13 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8603-montpellier-racing-92"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 24 novembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "36 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8604-bordeaux-begles-toulon"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 24 novembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "score": "24 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8605-racing-92-grenoble"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 24 novembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "13 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8606-pau-toulouse"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 24 novembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "15 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8607-agen-montpellier"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 24 novembre",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "12 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8608-perpignan-castres"
+    },
+    {
+      "journee": "j10",
+      "date": "dimanche 25 novembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "12 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8609-paris-la-rochelle"
+    },
+    {
+      "journee": "j10",
+      "date": "dimanche 25 novembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "31 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8610-clermont-lyon"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 01 décembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "23 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8611-montpellier-clermont"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 01 décembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "13 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8612-castres-agen"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 01 décembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "30 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8613-lyon-pau"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 01 décembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "11"
+      },
+      "score": "16 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8614-la-rochelle-racing-92"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 01 décembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "22 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8615-toulon-grenoble"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 02 décembre",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "11"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "11 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8616-perpignan-bordeaux-begles"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 02 décembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "49"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "49 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8617-toulouse-paris"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 22 décembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "6"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "6 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8618-agen-paris"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 22 décembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "40 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8619-toulon-lyon"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 22 décembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "16"
+      },
+      "score": "17 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8620-grenoble-montpellier"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 22 décembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "64"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "64 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8621-racing-92-perpignan"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 22 décembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "23 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8622-pau-la-rochelle"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 23 décembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "32"
+      },
+      "score": "13 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8623-castres-bordeaux-begles"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 23 décembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "20 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8624-clermont-toulouse"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 29 décembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "52 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8625-lyon-agen"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 29 décembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "23 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8626-paris-grenoble"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 29 décembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "53"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "53 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8627-la-rochelle-castres"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 29 décembre",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "score": "16 - 37",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8628-perpignan-clermont"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 30 décembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "41 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8629-montpellier-pau"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 30 décembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "40 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8630-bordeaux-begles-racing-92"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 30 décembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "39"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "39 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8631-toulouse-toulon"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 05 janvier",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "27 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8632-paris-perpignan"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 05 janvier",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "6"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "6 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8633-grenoble-castres"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 05 janvier",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "14"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "14 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8634-montpellier-lyon"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 05 janvier",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "40 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8635-pau-bordeaux-begles"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 05 janvier",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "20 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8636-agen-toulouse"
+    },
+    {
+      "journee": "j14",
+      "date": "samedi 05 janvier",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "22 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8637-racing-92-toulon"
+    },
+    {
+      "journee": "j14",
+      "date": "dimanche 06 janvier",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "44"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "44 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8638-clermont-la-rochelle"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 26 janvier",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "24 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8639-castres-clermont"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 26 janvier",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "25 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8640-bordeaux-begles-agen"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 26 janvier",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "27 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8641-la-rochelle-montpellier"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 26 janvier",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "24 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8642-perpignan-pau"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 26 janvier",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "32 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8643-lyon-racing-92"
+    },
+    {
+      "journee": "j15",
+      "date": "dimanche 27 janvier",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "29 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8644-toulouse-grenoble"
+    },
+    {
+      "journee": "j15",
+      "date": "dimanche 27 janvier",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "30"
+      },
+      "score": "33 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8645-toulon-paris"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 16 février",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "40 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8646-clermont-bordeaux-begles"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 16 février",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "10"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "10 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8647-montpellier-perpignan"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 16 février",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "9 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8648-pau-castres"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 16 février",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "13 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8649-paris-lyon"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 16 février",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "19 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8650-agen-toulon"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 17 février",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "28"
+      },
+      "score": "21 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8651-grenoble-la-rochelle"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 17 février",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "34"
+      },
+      "score": "29 - 34",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8652-racing-92-toulouse"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 23 février",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "38"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "38 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8653-toulon-pau"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 23 février",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "27 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8654-toulouse-montpellier"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 23 février",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "31"
+      },
+      "score": "47 - 31",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8655-bordeaux-begles-grenoble"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 23 février",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "13 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8656-perpignan-agen"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 23 février",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "14"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "14 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8657-la-rochelle-paris"
+    },
+    {
+      "journee": "j17",
+      "date": "dimanche 24 février",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "18 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8658-castres-racing-92"
+    },
+    {
+      "journee": "j17",
+      "date": "dimanche 24 février",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "19 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8659-lyon-clermont"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 02 mars",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "50"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "50 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8660-racing-92-la-rochelle"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 02 mars",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "52 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8661-clermont-grenoble"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 02 mars",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "37 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8662-montpellier-bordeaux-begles"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 02 mars",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "27 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8663-pau-agen"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 02 mars",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "15 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8664-lyon-castres"
+    },
+    {
+      "journee": "j18",
+      "date": "dimanche 03 mars",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "11"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "11 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8665-perpignan-toulon"
+    },
+    {
+      "journee": "j18",
+      "date": "dimanche 03 mars",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "28"
+      },
+      "score": "9 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8666-paris-toulouse"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 16 mars",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "18 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8667-toulon-montpellier"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 16 mars",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "36 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8668-castres-perpignan"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 16 mars",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "score": "16 - 34",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8669-grenoble-racing-92"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 16 mars",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "19 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8670-agen-la-rochelle"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 16 mars",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "26 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8671-bordeaux-begles-paris"
+    },
+    {
+      "journee": "j19",
+      "date": "dimanche 17 mars",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "27 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8672-clermont-pau"
+    },
+    {
+      "journee": "j19",
+      "date": "dimanche 17 mars",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "53"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "53 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8673-toulouse-lyon"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 23 mars",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "33"
+      },
+      "score": "42 - 33",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8674-lyon-toulon"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 23 mars",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "32 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8675-paris-castres"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 23 mars",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "15 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8676-pau-montpellier"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 23 mars",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "22 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8677-perpignan-grenoble"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 23 mars",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "13 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8678-agen-clermont"
+    },
+    {
+      "journee": "j20",
+      "date": "dimanche 24 mars",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "45"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "45 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8679-racing-92-bordeaux-begles"
+    },
+    {
+      "journee": "j20",
+      "date": "dimanche 24 mars",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "19 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8680-la-rochelle-toulouse"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 06 avril",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "25 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8681-toulon-toulouse"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 06 avril",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "17"
+      },
+      "score": "21 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8682-grenoble-paris"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 06 avril",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "33 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8683-montpellier-agen"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 06 avril",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "31 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8684-bordeaux-begles-perpignan"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 06 avril",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "25 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8685-castres-la-rochelle"
+    },
+    {
+      "journee": "j21",
+      "date": "dimanche 07 avril",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "24 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8686-pau-lyon"
+    },
+    {
+      "journee": "j21",
+      "date": "dimanche 07 avril",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "31"
+      },
+      "score": "31 - 31",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8687-clermont-racing-92"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 13 avril",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "12 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8688-bordeaux-begles-castres"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 13 avril",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "47 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8689-lyon-perpignan"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 13 avril",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "score": "25 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8690-paris-agen"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 13 avril",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "71"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "71 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8691-la-rochelle-pau"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 13 avril",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "18"
+      },
+      "score": "19 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8692-grenoble-toulon"
+    },
+    {
+      "journee": "j22",
+      "date": "dimanche 14 avril",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "26 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8693-racing-92-montpellier"
+    },
+    {
+      "journee": "j22",
+      "date": "dimanche 14 avril",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "44"
+      },
+      "score": "47 - 44",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8694-toulouse-clermont"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 27 avril",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "score": "29 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8695-pau-racing-92"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 27 avril",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "20 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8696-castres-toulouse"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 27 avril",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "47 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8697-montpellier-grenoble"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 27 avril",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "25 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8698-agen-lyon"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 27 avril",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "49"
+      },
+      "score": "29 - 49",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8699-perpignan-la-rochelle"
+    },
+    {
+      "journee": "j23",
+      "date": "dimanche 28 avril",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "45"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "45 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8700-toulon-bordeaux-begles"
+    },
+    {
+      "journee": "j23",
+      "date": "dimanche 28 avril",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "score": "25 - 41",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8701-paris-clermont"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 04 mai",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "83"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "83 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8702-toulouse-pau"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 04 mai",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "9 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8704-castres-montpellier"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 04 mai",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "11"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "11 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8705-grenoble-agen"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 04 mai",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "35"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "35 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8703-clermont-perpignan"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 04 mai",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "30 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8706-la-rochelle-toulon"
+    },
+    {
+      "journee": "j24",
+      "date": "dimanche 05 mai",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "34 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8707-lyon-bordeaux-begles"
+    },
+    {
+      "journee": "j24",
+      "date": "dimanche 05 mai",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "23 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8708-racing-92-paris"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 18 mai",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": "Bo",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "22 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8709-pau-grenoble"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 18 mai",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "10"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "10 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8710-agen-castres"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 18 mai",
+      "domicile": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "14"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "score": "14 - 52",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8711-perpignan-racing-92"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 18 mai",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "29 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8712-lyon-la-rochelle"
+    },
+    {
+      "journee": "j25",
+      "date": "dimanche 19 mai",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "42 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8713-montpellier-paris"
+    },
+    {
+      "journee": "j25",
+      "date": "dimanche 19 mai",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "43"
+      },
+      "score": "36 - 43",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8714-bordeaux-begles-toulouse"
+    },
+    {
+      "journee": "j25",
+      "date": "dimanche 19 mai",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "32 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8715-toulon-clermont"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "28"
+      },
+      "score": "27 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8716-clermont-montpellier"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "9e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "16 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8717-castres-toulon"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "23 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8718-grenoble-lyon"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "8e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "11e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "31 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8719-paris-pau"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "81"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "10e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "81 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8720-la-rochelle-bordeaux-begles"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "USA Perpignan",
+        "classement": "14e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "47 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8721-toulouse-perpignan"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 25 mai",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "12e",
+        "bonus": null,
+        "score": "3"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "35"
+      },
+      "score": "3 - 35",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8722-agen-racing-92"
+    },
+    {
+      "journee": "barrages",
+      "date": "vendredi 31 mai",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "4e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "13 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/barrages/8723-racing-92-la-rochelle"
+    },
+    {
+      "journee": "barrages",
+      "date": "samedi 01 juin",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "6e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "21 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/barrages/8724-lyon-montpellier"
+    },
+    {
+      "journee": "match-daccession",
+      "date": "dimanche 02 juin",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "13e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": null,
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "28 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/match-daccession/8725-brive-grenoble"
+    },
+    {
+      "journee": "demi-finales",
+      "date": "samedi 08 juin",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "5e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "20 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/demi-finales/8726-toulouse-la-rochelle"
+    },
+    {
+      "journee": "demi-finales",
+      "date": "dimanche 09 juin",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "33 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/demi-finales/8727-clermont-lyon"
+    },
+    {
+      "journee": "finale",
+      "date": "samedi 15 juin",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "24 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2018-2019/finale/8728-toulouse-clermont"
+    }
+  ]
+}

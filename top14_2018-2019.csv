@@ -1,0 +1,189 @@
+journee,date,domicile,classement_dom,bonus_dom,score_dom,exterieur,classement_ext,bonus_ext,score_ext,score,lien_feuille_match
+j1,samedi 25 août,USA Perpignan,14e,,15,Stade Français Paris,8e,Bo,46,15 - 46,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8541-perpignan-paris
+j1,samedi 25 août,ASM Clermont,2e,Bo,67,SU Agen,12e,,23,67 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8542-clermont-agen
+j1,samedi 25 août,LOU Rugby,3e,,16,Stade Toulousain,1e,,16,16 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8543-lyon-toulouse
+j1,samedi 25 août,Stade Rochelais,5e,,28,FC Grenoble Rugby,13e,,21,28 - 21,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8544-la-rochelle-grenoble
+j1,samedi 25 août,Union Bordeaux-Bègles,10e,Bo,41,Section Paloise,11e,,19,41 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8545-bordeaux-begles-pau
+j1,samedi 25 août,RC Toulon,9e,,9,Racing 92,4e,Bo,25,9 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8546-toulon-racing-92
+j1,dimanche 26 août,Montpellier Hérault Rugby,6e,Bd,20,Castres Olympique,7e,,25,20 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j1/8547-montpellier-castres
+j2,samedi 01 septembre,Section Paloise,11e,,20,RC Toulon,9e,,10,20 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8548-pau-toulon
+j2,samedi 01 septembre,Castres Olympique,7e,,19,LOU Rugby,3e,Bd,16,19 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8549-castres-lyon
+j2,samedi 01 septembre,Montpellier Hérault Rugby,6e,,36,Stade Rochelais,5e,,14,36 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8550-montpellier-la-rochelle
+j2,samedi 01 septembre,Stade Français Paris,8e,,20,Union Bordeaux-Bègles,10e,,8,20 - 8,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8551-paris-bordeaux-begles
+j2,samedi 01 septembre,FC Grenoble Rugby,13e,Bd,20,Stade Toulousain,1e,,23,20 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8552-grenoble-toulouse
+j2,dimanche 02 septembre,SU Agen,12e,,25,USA Perpignan,14e,Bd,23,25 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8553-agen-perpignan
+j2,dimanche 02 septembre,Racing 92,4e,,17,ASM Clermont,2e,,40,17 - 40,https://top14.lnr.fr/feuille-de-match/2018-2019/j2/8554-racing-92-clermont
+j3,samedi 08 septembre,Union Bordeaux-Bègles,10e,,9,Montpellier Hérault Rugby,6e,,9,9 - 9,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8555-bordeaux-begles-montpellier
+j3,samedi 08 septembre,Stade Toulousain,1e,,33,Stade Rochelais,5e,,26,33 - 26,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8556-toulouse-la-rochelle
+j3,samedi 08 septembre,Racing 92,4e,Bo,59,SU Agen,12e,,7,59 - 7,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8557-racing-92-agen
+j3,samedi 08 septembre,USA Perpignan,14e,,16,LOU Rugby,3e,,22,16 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8558-perpignan-lyon
+j3,samedi 08 septembre,ASM Clermont,2e,Bo,42,Stade Français Paris,8e,,20,42 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8559-clermont-paris
+j3,dimanche 09 septembre,FC Grenoble Rugby,13e,Bd,21,Section Paloise,11e,,24,21 - 24,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8560-grenoble-pau
+j3,dimanche 09 septembre,RC Toulon,9e,,28,Castres Olympique,7e,Bd,27,28 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j3/8561-toulon-castres
+j4,samedi 15 septembre,LOU Rugby,3e,Bo,55,Montpellier Hérault Rugby,6e,,13,55 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8562-lyon-montpellier
+j4,samedi 15 septembre,Castres Olympique,7e,Bo,29,FC Grenoble Rugby,13e,,13,29 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8563-castres-grenoble
+j4,samedi 15 septembre,Section Paloise,11e,Bd,23,ASM Clermont,2e,,27,23 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8564-pau-clermont
+j4,samedi 15 septembre,SU Agen,12e,,22,Union Bordeaux-Bègles,10e,Bd,17,22 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8565-agen-bordeaux-begles
+j4,samedi 15 septembre,Stade Toulousain,1e,,30,Racing 92,4e,,17,30 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8566-toulouse-racing-92
+j4,dimanche 16 septembre,Stade Rochelais,5e,Bo,37,USA Perpignan,14e,,10,37 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8567-la-rochelle-perpignan
+j4,dimanche 16 septembre,Stade Français Paris,8e,Bo,37,RC Toulon,9e,,10,37 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j4/8568-paris-toulon
+j5,samedi 22 septembre,Union Bordeaux-Bègles,10e,,23,ASM Clermont,2e,Bd,19,23 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8569-bordeaux-begles-clermont
+j5,samedi 22 septembre,FC Grenoble Rugby,13e,,31,USA Perpignan,14e,,22,31 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8570-grenoble-perpignan
+j5,samedi 22 septembre,RC Toulon,9e,Bo,33,SU Agen,12e,,3,33 - 3,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8571-toulon-agen
+j5,samedi 22 septembre,Stade Rochelais,5e,,30,LOU Rugby,3e,,13,30 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8572-la-rochelle-lyon
+j5,samedi 22 septembre,Racing 92,4e,,27,Castres Olympique,7e,,11,27 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8573-racing-92-castres
+j5,dimanche 23 septembre,Section Paloise,11e,,13,Stade Français Paris,8e,,25,13 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8574-pau-paris
+j5,dimanche 23 septembre,Montpellier Hérault Rugby,6e,Bo,66,Stade Toulousain,1e,,15,66 - 15,https://top14.lnr.fr/feuille-de-match/2018-2019/j5/8575-montpellier-toulouse
+j6,samedi 29 septembre,Stade Toulousain,1e,Bd,22,Castres Olympique,7e,,26,22 - 26,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8576-toulouse-castres
+j6,samedi 29 septembre,LOU Rugby,3e,Bo,34,FC Grenoble Rugby,13e,,6,34 - 6,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8577-lyon-grenoble
+j6,samedi 29 septembre,SU Agen,12e,Bd,25,Section Paloise,11e,,28,25 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8578-agen-pau
+j6,samedi 29 septembre,Union Bordeaux-Bègles,10e,,34,Stade Rochelais,5e,,22,34 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8579-bordeaux-begles-la-rochelle
+j6,samedi 29 septembre,USA Perpignan,14e,Bd,20,Montpellier Hérault Rugby,6e,,23,20 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8580-perpignan-montpellier
+j6,samedi 29 septembre,ASM Clermont,2e,Bo,28,RC Toulon,9e,,8,28 - 8,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8581-clermont-toulon
+j6,dimanche 30 septembre,Stade Français Paris,8e,Bd,16,Racing 92,4e,,17,16 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j6/8582-paris-racing-92
+j7,samedi 06 octobre,Stade Rochelais,5e,,16,ASM Clermont,2e,Bd,12,16 - 12,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8583-la-rochelle-clermont
+j7,samedi 06 octobre,FC Grenoble Rugby,13e,,28,Union Bordeaux-Bègles,10e,Bd,25,28 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8584-grenoble-bordeaux-begles
+j7,samedi 06 octobre,Racing 92,4e,,13,LOU Rugby,3e,,19,13 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8585-racing-92-lyon
+j7,samedi 06 octobre,Section Paloise,11e,,12,USA Perpignan,14e,Bd,9,12 - 9,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8586-pau-perpignan
+j7,samedi 06 octobre,Stade Toulousain,1e,,10,SU Agen,12e,,0,10 - 0,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8587-toulouse-agen
+j7,dimanche 07 octobre,Castres Olympique,7e,Bd,9,Stade Français Paris,8e,,14,9 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8588-castres-paris
+j7,dimanche 07 octobre,Montpellier Hérault Rugby,6e,,29,RC Toulon,9e,,17,29 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j7/8589-montpellier-toulon
+j8,samedi 27 octobre,ASM Clermont,2e,Bo,41,Castres Olympique,7e,,6,41 - 6,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8590-clermont-castres
+j8,samedi 27 octobre,Racing 92,4e,,48,Section Paloise,11e,,28,48 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8591-racing-92-pau
+j8,samedi 27 octobre,SU Agen,12e,,9,FC Grenoble Rugby,13e,,9,9 - 9,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8592-agen-grenoble
+j8,samedi 27 octobre,USA Perpignan,14e,,18,Stade Toulousain,1e,Bo,36,18 - 36,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8593-perpignan-toulouse
+j8,samedi 27 octobre,Stade Français Paris,8e,,25,Montpellier Hérault Rugby,6e,Bd,20,25 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8594-paris-montpellier
+j8,dimanche 28 octobre,Union Bordeaux-Bègles,10e,Bo,35,LOU Rugby,3e,,13,35 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8595-bordeaux-begles-lyon
+j8,dimanche 28 octobre,RC Toulon,9e,Bd,9,Stade Rochelais,5e,,13,9 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j8/8596-toulon-la-rochelle
+j9,samedi 03 novembre,FC Grenoble Rugby,13e,,27,ASM Clermont,2e,,27,27 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8597-grenoble-clermont
+j9,samedi 03 novembre,Castres Olympique,7e,Bo,37,Section Paloise,11e,,10,37 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8598-castres-pau
+j9,samedi 03 novembre,RC Toulon,9e,,26,USA Perpignan,14e,,16,26 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8599-toulon-perpignan
+j9,samedi 03 novembre,Stade Rochelais,5e,,33,SU Agen,12e,Bd,29,33 - 29,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8600-la-rochelle-agen
+j9,samedi 03 novembre,Stade Toulousain,1e,Bo,40,Union Bordeaux-Bègles,10e,,0,40 - 0,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8601-toulouse-bordeaux-begles
+j9,dimanche 04 novembre,LOU Rugby,3e,Bo,41,Stade Français Paris,8e,,6,41 - 6,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8602-lyon-paris
+j9,dimanche 04 novembre,Montpellier Hérault Rugby,6e,,13,Racing 92,4e,,27,13 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j9/8603-montpellier-racing-92
+j10,samedi 24 novembre,Union Bordeaux-Bègles,10e,,36,RC Toulon,9e,,25,36 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8604-bordeaux-begles-toulon
+j10,samedi 24 novembre,Racing 92,4e,,24,FC Grenoble Rugby,13e,Bd,23,24 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8605-racing-92-grenoble
+j10,samedi 24 novembre,Section Paloise,11e,Bd,13,Stade Toulousain,1e,,15,13 - 15,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8606-pau-toulouse
+j10,samedi 24 novembre,SU Agen,12e,Bd,15,Montpellier Hérault Rugby,6e,,18,15 - 18,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8607-agen-montpellier
+j10,samedi 24 novembre,USA Perpignan,14e,Bd,12,Castres Olympique,7e,,16,12 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8608-perpignan-castres
+j10,dimanche 25 novembre,Stade Français Paris,8e,Bd,12,Stade Rochelais,5e,,14,12 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8609-paris-la-rochelle
+j10,dimanche 25 novembre,ASM Clermont,2e,Bo,31,LOU Rugby,3e,,11,31 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j10/8610-clermont-lyon
+j11,samedi 01 décembre,Montpellier Hérault Rugby,6e,Bd,23,ASM Clermont,2e,,28,23 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8611-montpellier-clermont
+j11,samedi 01 décembre,Castres Olympique,7e,Bd,13,SU Agen,12e,,16,13 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8612-castres-agen
+j11,samedi 01 décembre,LOU Rugby,3e,Bo,30,Section Paloise,11e,,10,30 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8613-lyon-pau
+j11,samedi 01 décembre,Stade Rochelais,5e,,16,Racing 92,4e,Bd,11,16 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8614-la-rochelle-racing-92
+j11,samedi 01 décembre,RC Toulon,9e,Bo,22,FC Grenoble Rugby,13e,,3,22 - 3,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8615-toulon-grenoble
+j11,dimanche 02 décembre,USA Perpignan,14e,,11,Union Bordeaux-Bègles,10e,,22,11 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8616-perpignan-bordeaux-begles
+j11,dimanche 02 décembre,Stade Toulousain,1e,Bo,49,Stade Français Paris,8e,,20,49 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j11/8617-toulouse-paris
+j12,samedi 22 décembre,SU Agen,12e,,6,Stade Français Paris,8e,,19,6 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8618-agen-paris
+j12,samedi 22 décembre,RC Toulon,9e,Bo,40,LOU Rugby,3e,,7,40 - 7,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8619-toulon-lyon
+j12,samedi 22 décembre,FC Grenoble Rugby,13e,,17,Montpellier Hérault Rugby,6e,Bd,16,17 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8620-grenoble-montpellier
+j12,samedi 22 décembre,Racing 92,4e,Bo,64,USA Perpignan,14e,,28,64 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8621-racing-92-perpignan
+j12,samedi 22 décembre,Section Paloise,11e,Bd,23,Stade Rochelais,5e,,28,23 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8622-pau-la-rochelle
+j12,dimanche 23 décembre,Castres Olympique,7e,,13,Union Bordeaux-Bègles,10e,,32,13 - 32,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8623-castres-bordeaux-begles
+j12,dimanche 23 décembre,ASM Clermont,2e,,20,Stade Toulousain,1e,,20,20 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j12/8624-clermont-toulouse
+j13,samedi 29 décembre,LOU Rugby,3e,Bo,52,SU Agen,12e,,20,52 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8625-lyon-agen
+j13,samedi 29 décembre,Stade Français Paris,8e,,23,FC Grenoble Rugby,13e,Bd,20,23 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8626-paris-grenoble
+j13,samedi 29 décembre,Stade Rochelais,5e,Bo,53,Castres Olympique,7e,,27,53 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8627-la-rochelle-castres
+j13,samedi 29 décembre,USA Perpignan,14e,,16,ASM Clermont,2e,Bo,37,16 - 37,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8628-perpignan-clermont
+j13,dimanche 30 décembre,Montpellier Hérault Rugby,6e,Bo,41,Section Paloise,11e,,13,41 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8629-montpellier-pau
+j13,dimanche 30 décembre,Union Bordeaux-Bègles,10e,,40,Racing 92,4e,,7,40 - 7,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8630-bordeaux-begles-racing-92
+j13,dimanche 30 décembre,Stade Toulousain,1e,Bo,39,RC Toulon,9e,,0,39 - 0,https://top14.lnr.fr/feuille-de-match/2018-2019/j13/8631-toulouse-toulon
+j14,samedi 05 janvier,Stade Français Paris,8e,Bo,27,USA Perpignan,14e,,8,27 - 8,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8632-paris-perpignan
+j14,samedi 05 janvier,FC Grenoble Rugby,13e,,6,Castres Olympique,7e,,16,6 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8633-grenoble-castres
+j14,samedi 05 janvier,Montpellier Hérault Rugby,6e,,14,LOU Rugby,3e,,25,14 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8634-montpellier-lyon
+j14,samedi 05 janvier,Section Paloise,11e,Bo,40,Union Bordeaux-Bègles,10e,,23,40 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8635-pau-bordeaux-begles
+j14,samedi 05 janvier,SU Agen,12e,,20,Stade Toulousain,1e,,27,20 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8636-agen-toulouse
+j14,samedi 05 janvier,Racing 92,4e,,22,RC Toulon,9e,,13,22 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8637-racing-92-toulon
+j14,dimanche 06 janvier,ASM Clermont,2e,,44,Stade Rochelais,5e,,19,44 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/j14/8638-clermont-la-rochelle
+j15,samedi 26 janvier,Castres Olympique,7e,,24,ASM Clermont,2e,,16,24 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8639-castres-clermont
+j15,samedi 26 janvier,Union Bordeaux-Bègles,10e,,25,SU Agen,12e,,17,25 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8640-bordeaux-begles-agen
+j15,samedi 26 janvier,Stade Rochelais,5e,,27,Montpellier Hérault Rugby,6e,Bd,25,27 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8641-la-rochelle-montpellier
+j15,samedi 26 janvier,USA Perpignan,14e,,24,Section Paloise,11e,,30,24 - 30,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8642-perpignan-pau
+j15,samedi 26 janvier,LOU Rugby,3e,,32,Racing 92,4e,,11,32 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8643-lyon-racing-92
+j15,dimanche 27 janvier,Stade Toulousain,1e,Bo,29,FC Grenoble Rugby,13e,,16,29 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8644-toulouse-grenoble
+j15,dimanche 27 janvier,RC Toulon,9e,,33,Stade Français Paris,8e,Bd,30,33 - 30,https://top14.lnr.fr/feuille-de-match/2018-2019/j15/8645-toulon-paris
+j16,samedi 16 février,ASM Clermont,2e,,40,Union Bordeaux-Bègles,10e,,20,40 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8646-clermont-bordeaux-begles
+j16,samedi 16 février,Montpellier Hérault Rugby,6e,,10,USA Perpignan,14e,,28,10 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8647-montpellier-perpignan
+j16,samedi 16 février,Section Paloise,11e,Bd,9,Castres Olympique,7e,,14,9 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8648-pau-castres
+j16,samedi 16 février,Stade Français Paris,8e,,13,LOU Rugby,3e,,24,13 - 24,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8649-paris-lyon
+j16,samedi 16 février,SU Agen,12e,,19,RC Toulon,9e,,10,19 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8650-agen-toulon
+j16,dimanche 17 février,FC Grenoble Rugby,13e,,21,Stade Rochelais,5e,Bo,28,21 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8651-grenoble-la-rochelle
+j16,dimanche 17 février,Racing 92,4e,Bd,29,Stade Toulousain,1e,,34,29 - 34,https://top14.lnr.fr/feuille-de-match/2018-2019/j16/8652-racing-92-toulouse
+j17,samedi 23 février,RC Toulon,9e,Bo,38,Section Paloise,11e,,11,38 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8653-toulon-pau
+j17,samedi 23 février,Stade Toulousain,1e,,27,Montpellier Hérault Rugby,6e,,14,27 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8654-toulouse-montpellier
+j17,samedi 23 février,Union Bordeaux-Bègles,10e,Bo,47,FC Grenoble Rugby,13e,,31,47 - 31,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8655-bordeaux-begles-grenoble
+j17,samedi 23 février,USA Perpignan,14e,,13,SU Agen,12e,,20,13 - 20,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8656-perpignan-agen
+j17,samedi 23 février,Stade Rochelais,5e,,14,Stade Français Paris,8e,,27,14 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8657-la-rochelle-paris
+j17,dimanche 24 février,Castres Olympique,7e,,18,Racing 92,4e,,9,18 - 9,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8658-castres-racing-92
+j17,dimanche 24 février,LOU Rugby,3e,,19,ASM Clermont,2e,,13,19 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j17/8659-lyon-clermont
+j18,samedi 02 mars,Racing 92,4e,Bo,50,Stade Rochelais,5e,,14,50 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8660-racing-92-la-rochelle
+j18,samedi 02 mars,ASM Clermont,2e,Bo,52,FC Grenoble Rugby,13e,,17,52 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8661-clermont-grenoble
+j18,samedi 02 mars,Montpellier Hérault Rugby,6e,Bo,37,Union Bordeaux-Bègles,10e,,10,37 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8662-montpellier-bordeaux-begles
+j18,samedi 02 mars,Section Paloise,11e,,27,SU Agen,12e,,17,27 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8663-pau-agen
+j18,samedi 02 mars,LOU Rugby,3e,,15,Castres Olympique,7e,,23,15 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8664-lyon-castres
+j18,dimanche 03 mars,USA Perpignan,14e,,11,RC Toulon,9e,,24,11 - 24,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8665-perpignan-toulon
+j18,dimanche 03 mars,Stade Français Paris,8e,,9,Stade Toulousain,1e,Bo,28,9 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j18/8666-paris-toulouse
+j19,samedi 16 mars,RC Toulon,9e,Bd,18,Montpellier Hérault Rugby,6e,,21,18 - 21,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8667-toulon-montpellier
+j19,samedi 16 mars,Castres Olympique,7e,Bo,36,USA Perpignan,14e,,17,36 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8668-castres-perpignan
+j19,samedi 16 mars,FC Grenoble Rugby,13e,,16,Racing 92,4e,Bo,34,16 - 34,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8669-grenoble-racing-92
+j19,samedi 16 mars,SU Agen,12e,,19,Stade Rochelais,5e,,7,19 - 7,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8670-agen-la-rochelle
+j19,samedi 16 mars,Union Bordeaux-Bègles,10e,,26,Stade Français Paris,8e,,12,26 - 12,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8671-bordeaux-begles-paris
+j19,dimanche 17 mars,ASM Clermont,2e,,27,Section Paloise,11e,,14,27 - 14,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8672-clermont-pau
+j19,dimanche 17 mars,Stade Toulousain,1e,Bo,53,LOU Rugby,3e,,21,53 - 21,https://top14.lnr.fr/feuille-de-match/2018-2019/j19/8673-toulouse-lyon
+j20,samedi 23 mars,LOU Rugby,3e,,42,RC Toulon,9e,,33,42 - 33,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8674-lyon-toulon
+j20,samedi 23 mars,Stade Français Paris,8e,Bo,32,Castres Olympique,7e,,16,32 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8675-paris-castres
+j20,samedi 23 mars,Section Paloise,11e,,15,Montpellier Hérault Rugby,6e,,24,15 - 24,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8676-pau-montpellier
+j20,samedi 23 mars,USA Perpignan,14e,,22,FC Grenoble Rugby,13e,,16,22 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8677-perpignan-grenoble
+j20,samedi 23 mars,SU Agen,12e,,13,ASM Clermont,2e,,28,13 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8678-agen-clermont
+j20,dimanche 24 mars,Racing 92,4e,Bo,45,Union Bordeaux-Bègles,10e,,27,45 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8679-racing-92-bordeaux-begles
+j20,dimanche 24 mars,Stade Rochelais,5e,Bd,19,Stade Toulousain,1e,,23,19 - 23,https://top14.lnr.fr/feuille-de-match/2018-2019/j20/8680-la-rochelle-toulouse
+j21,samedi 06 avril,RC Toulon,9e,,25,Stade Toulousain,1e,,10,25 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8681-toulon-toulouse
+j21,samedi 06 avril,FC Grenoble Rugby,13e,,21,Stade Français Paris,8e,Bd,17,21 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8682-grenoble-paris
+j21,samedi 06 avril,Montpellier Hérault Rugby,6e,Bo,33,SU Agen,12e,,17,33 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8683-montpellier-agen
+j21,samedi 06 avril,Union Bordeaux-Bègles,10e,,31,USA Perpignan,14e,,22,31 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8684-bordeaux-begles-perpignan
+j21,samedi 06 avril,Castres Olympique,7e,,25,Stade Rochelais,5e,,11,25 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8685-castres-la-rochelle
+j21,dimanche 07 avril,Section Paloise,11e,Bd,24,LOU Rugby,3e,,27,24 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8686-pau-lyon
+j21,dimanche 07 avril,ASM Clermont,2e,,31,Racing 92,4e,,31,31 - 31,https://top14.lnr.fr/feuille-de-match/2018-2019/j21/8687-clermont-racing-92
+j22,samedi 13 avril,Union Bordeaux-Bègles,10e,Bd,12,Castres Olympique,7e,,16,12 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8688-bordeaux-begles-castres
+j22,samedi 13 avril,LOU Rugby,3e,Bo,47,USA Perpignan,14e,,9,47 - 9,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8689-lyon-perpignan
+j22,samedi 13 avril,Stade Français Paris,8e,,25,SU Agen,12e,Bd,22,25 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8690-paris-agen
+j22,samedi 13 avril,Stade Rochelais,5e,Bo,71,Section Paloise,11e,,21,71 - 21,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8691-la-rochelle-pau
+j22,samedi 13 avril,FC Grenoble Rugby,13e,,19,RC Toulon,9e,Bd,18,19 - 18,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8692-grenoble-toulon
+j22,dimanche 14 avril,Racing 92,4e,,26,Montpellier Hérault Rugby,6e,Bd,25,26 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8693-racing-92-montpellier
+j22,dimanche 14 avril,Stade Toulousain,1e,,47,ASM Clermont,2e,Bd,44,47 - 44,https://top14.lnr.fr/feuille-de-match/2018-2019/j22/8694-toulouse-clermont
+j23,samedi 27 avril,Section Paloise,11e,,29,Racing 92,4e,Bd,27,29 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8695-pau-racing-92
+j23,samedi 27 avril,Castres Olympique,7e,Bd,20,Stade Toulousain,1e,,21,20 - 21,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8696-castres-toulouse
+j23,samedi 27 avril,Montpellier Hérault Rugby,6e,Bo,47,FC Grenoble Rugby,13e,,12,47 - 12,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8697-montpellier-grenoble
+j23,samedi 27 avril,SU Agen,12e,,25,LOU Rugby,3e,,15,25 - 15,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8698-agen-lyon
+j23,samedi 27 avril,USA Perpignan,14e,,29,Stade Rochelais,5e,Bo,49,29 - 49,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8699-perpignan-la-rochelle
+j23,dimanche 28 avril,RC Toulon,9e,Bo,45,Union Bordeaux-Bègles,10e,,17,45 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8700-toulon-bordeaux-begles
+j23,dimanche 28 avril,Stade Français Paris,8e,,25,ASM Clermont,2e,Bo,41,25 - 41,https://top14.lnr.fr/feuille-de-match/2018-2019/j23/8701-paris-clermont
+j24,samedi 04 mai,Stade Toulousain,1e,Bo,83,Section Paloise,11e,,6,83 - 6,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8702-toulouse-pau
+j24,samedi 04 mai,Castres Olympique,7e,Bd,9,Montpellier Hérault Rugby,6e,,12,9 - 12,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8704-castres-montpellier
+j24,samedi 04 mai,FC Grenoble Rugby,13e,,11,SU Agen,12e,,29,11 - 29,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8705-grenoble-agen
+j24,samedi 04 mai,ASM Clermont,2e,Bo,35,USA Perpignan,14e,,13,35 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8703-clermont-perpignan
+j24,samedi 04 mai,Stade Rochelais,5e,,30,RC Toulon,9e,,21,30 - 21,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8706-la-rochelle-toulon
+j24,dimanche 05 mai,LOU Rugby,3e,Bo,34,Union Bordeaux-Bègles,10e,,10,34 - 10,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8707-lyon-bordeaux-begles
+j24,dimanche 05 mai,Racing 92,4e,Bd,23,Stade Français Paris,8e,,27,23 - 27,https://top14.lnr.fr/feuille-de-match/2018-2019/j24/8708-racing-92-paris
+j25,samedi 18 mai,Section Paloise,11e,Bo,22,FC Grenoble Rugby,13e,,0,22 - 0,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8709-pau-grenoble
+j25,samedi 18 mai,SU Agen,12e,,10,Castres Olympique,7e,,17,10 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8710-agen-castres
+j25,samedi 18 mai,USA Perpignan,14e,,14,Racing 92,4e,Bo,52,14 - 52,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8711-perpignan-racing-92
+j25,samedi 18 mai,LOU Rugby,3e,,29,Stade Rochelais,5e,,19,29 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8712-lyon-la-rochelle
+j25,dimanche 19 mai,Montpellier Hérault Rugby,6e,Bo,42,Stade Français Paris,8e,,25,42 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8713-montpellier-paris
+j25,dimanche 19 mai,Union Bordeaux-Bègles,10e,,36,Stade Toulousain,1e,,43,36 - 43,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8714-bordeaux-begles-toulouse
+j25,dimanche 19 mai,RC Toulon,9e,Bo,32,ASM Clermont,2e,,11,32 - 11,https://top14.lnr.fr/feuille-de-match/2018-2019/j25/8715-toulon-clermont
+j26,samedi 25 mai,ASM Clermont,2e,Bd,27,Montpellier Hérault Rugby,6e,,28,27 - 28,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8716-clermont-montpellier
+j26,samedi 25 mai,Castres Olympique,7e,,16,RC Toulon,9e,,25,16 - 25,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8717-castres-toulon
+j26,samedi 25 mai,FC Grenoble Rugby,13e,Bd,23,LOU Rugby,3e,,24,23 - 24,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8718-grenoble-lyon
+j26,samedi 25 mai,Stade Français Paris,8e,,31,Section Paloise,11e,,17,31 - 17,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8719-paris-pau
+j26,samedi 25 mai,Stade Rochelais,5e,Bo,81,Union Bordeaux-Bègles,10e,,12,81 - 12,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8720-la-rochelle-bordeaux-begles
+j26,samedi 25 mai,Stade Toulousain,1e,Bo,47,USA Perpignan,14e,,7,47 - 7,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8721-toulouse-perpignan
+j26,samedi 25 mai,SU Agen,12e,,3,Racing 92,4e,Bo,35,3 - 35,https://top14.lnr.fr/feuille-de-match/2018-2019/j26/8722-agen-racing-92
+barrages,vendredi 31 mai,Racing 92,4e,,13,Stade Rochelais,5e,,19,13 - 19,https://top14.lnr.fr/feuille-de-match/2018-2019/barrages/8723-racing-92-la-rochelle
+barrages,samedi 01 juin,LOU Rugby,3e,,21,Montpellier Hérault Rugby,6e,,16,21 - 16,https://top14.lnr.fr/feuille-de-match/2018-2019/barrages/8724-lyon-montpellier
+match-daccession,dimanche 02 juin,CA Brive,13e,,28,FC Grenoble Rugby,,,22,28 - 22,https://top14.lnr.fr/feuille-de-match/2018-2019/match-daccession/8725-brive-grenoble
+demi-finales,samedi 08 juin,Stade Toulousain,1e,,20,Stade Rochelais,5e,,6,20 - 6,https://top14.lnr.fr/feuille-de-match/2018-2019/demi-finales/8726-toulouse-la-rochelle
+demi-finales,dimanche 09 juin,ASM Clermont,2e,,33,LOU Rugby,3e,,13,33 - 13,https://top14.lnr.fr/feuille-de-match/2018-2019/demi-finales/8727-clermont-lyon
+finale,samedi 15 juin,Stade Toulousain,1e,,24,ASM Clermont,2e,,18,24 - 18,https://top14.lnr.fr/feuille-de-match/2018-2019/finale/8728-toulouse-clermont

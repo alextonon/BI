@@ -1,0 +1,3372 @@
+{
+  "saison": "2016-2017",
+  "total_matchs": 187,
+  "matchs": [
+    {
+      "journee": "j1",
+      "date": "samedi 20 août",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "15 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7674-lyon-brive"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 20 août",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "28 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7675-castres-pau"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 20 août",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "15 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7676-bordeaux-begles-racing-92"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 20 août",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "54"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "54 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7677-paris-grenoble"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 20 août",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "30 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7678-la-rochelle-clermont"
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 20 août",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "20 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7679-toulouse-montpellier"
+    },
+    {
+      "journee": "j1",
+      "date": "dimanche 21 août",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "score": "28 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j1/7680-bayonne-toulon"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 27 août",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "18 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7681-pau-toulon"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 27 août",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "12 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7682-bayonne-castres"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 27 août",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "28 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7683-brive-paris"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 27 août",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "19 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7684-grenoble-la-rochelle"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 27 août",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "29 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7685-racing-92-lyon"
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 27 août",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "17"
+      },
+      "score": "22 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7686-toulouse-bordeaux-begles"
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 28 août",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "22 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j2/7687-montpellier-clermont"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 03 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "30 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7688-paris-clermont"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 03 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "32 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7689-lyon-grenoble"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 03 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "18 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7690-castres-la-rochelle"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 03 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "25 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7691-pau-bayonne"
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 03 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "21 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7692-toulon-brive"
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 04 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "32"
+      },
+      "score": "15 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7693-bordeaux-begles-montpellier"
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 04 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "28 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j3/7694-racing-92-toulouse"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 septembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "29 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7695-paris-castres"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "41 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7696-montpellier-pau"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "40 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7697-bordeaux-begles-bayonne"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 septembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "43"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "43 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7698-la-rochelle-lyon"
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 septembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "47 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7699-clermont-racing-92"
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 11 septembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "36 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7700-grenoble-brive"
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 11 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "score": "15 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j4/7701-toulouse-toulon"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "25 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7702-lyon-toulouse"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 septembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "9 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7703-bayonne-montpellier"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 septembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "28"
+      },
+      "score": "29 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7704-brive-la-rochelle"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "23 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7705-pau-paris"
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 septembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "40 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7706-clermont-bordeaux-begles"
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 18 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "46"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "46 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7707-castres-grenoble"
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 18 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "41 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j5/7708-racing-92-toulon"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "31 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7709-castres-racing-92"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 septembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "38"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "39"
+      },
+      "score": "38 - 39",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7710-grenoble-pau"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "32 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7711-bordeaux-begles-lyon"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 septembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "34 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7712-la-rochelle-bayonne"
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "18"
+      },
+      "score": "23 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7713-toulouse-paris"
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 25 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "42 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7714-montpellier-brive"
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 25 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "21"
+      },
+      "score": "23 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j6/7715-toulon-clermont"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 01 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "29 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7716-clermont-castres"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 01 octobre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "22 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7717-bayonne-lyon"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 01 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "28 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7718-pau-bordeaux-begles"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 01 octobre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bo",
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "31 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7719-toulouse-grenoble"
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 01 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "25 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7720-brive-racing-92"
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 02 octobre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "31 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7721-paris-la-rochelle"
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 02 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "28 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j7/7722-toulon-montpellier"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 08 octobre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "29 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7723-racing-92-paris"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 08 octobre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bo",
+        "score": "44"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "44 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7724-grenoble-bayonne"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 08 octobre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "28 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7725-montpellier-castres"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 08 octobre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "27 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7726-bordeaux-begles-brive"
+    },
+    {
+      "journee": "j8",
+      "date": "samedi 08 octobre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "17 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7727-la-rochelle-toulon"
+    },
+    {
+      "journee": "j8",
+      "date": "dimanche 09 octobre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "score": "27 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7728-lyon-pau"
+    },
+    {
+      "journee": "j8",
+      "date": "dimanche 09 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "29 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j8/7729-clermont-toulouse"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 29 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "20 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7730-pau-toulouse"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 29 octobre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "11"
+      },
+      "score": "12 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7731-montpellier-la-rochelle"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 29 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "42 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7732-toulon-grenoble"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 29 octobre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "25 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7733-paris-lyon"
+    },
+    {
+      "journee": "j9",
+      "date": "samedi 29 octobre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "3"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "3 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7734-bayonne-racing-92"
+    },
+    {
+      "journee": "j9",
+      "date": "dimanche 30 octobre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "33 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7735-castres-bordeaux-begles"
+    },
+    {
+      "journee": "j9",
+      "date": "dimanche 30 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "score": "16 - 40",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j9/7736-brive-clermont"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 05 novembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "37 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7737-bordeaux-begles-paris"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 05 novembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "21 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7738-clermont-grenoble"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 05 novembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "26 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7739-brive-bayonne"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 05 novembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "15"
+      },
+      "score": "16 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7740-toulouse-castres"
+    },
+    {
+      "journee": "j10",
+      "date": "samedi 05 novembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "21 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7741-racing-92-montpellier"
+    },
+    {
+      "journee": "j10",
+      "date": "dimanche 06 novembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "27 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7742-la-rochelle-pau"
+    },
+    {
+      "journee": "j10",
+      "date": "dimanche 06 novembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "27 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j10/7743-lyon-toulon"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 12 novembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "26 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7744-pau-racing-92"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 12 novembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "24"
+      },
+      "score": "22 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7745-grenoble-bordeaux-begles"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 12 novembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "25 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7746-montpellier-lyon"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 12 novembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "32 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7747-castres-brive"
+    },
+    {
+      "journee": "j11",
+      "date": "samedi 12 novembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "22 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7748-bayonne-clermont"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 13 novembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "25 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7749-la-rochelle-toulouse"
+    },
+    {
+      "journee": "j11",
+      "date": "dimanche 13 novembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "31 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j11/7750-toulon-paris"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 19 novembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "34 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7751-castres-toulon"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 19 novembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "13"
+      },
+      "score": "16 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7752-clermont-lyon"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 19 novembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "38"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "38 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7753-brive-pau"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 19 novembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "score": "29 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7754-racing-92-grenoble"
+    },
+    {
+      "journee": "j12",
+      "date": "samedi 19 novembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "0"
+      },
+      "score": "26 - 0",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7755-bordeaux-begles-la-rochelle"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 20 novembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "17"
+      },
+      "score": "21 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7756-paris-montpellier"
+    },
+    {
+      "journee": "j12",
+      "date": "dimanche 20 novembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "13"
+      },
+      "score": "16 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j12/7757-bayonne-toulouse"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 03 décembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "35"
+      },
+      "score": "40 - 35",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7758-pau-clermont"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 03 décembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "51"
+      },
+      "score": "37 - 51",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7759-grenoble-montpellier"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 03 décembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "19 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7760-lyon-castres"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 03 décembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "51"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "5"
+      },
+      "score": "51 - 5",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7761-paris-bayonne"
+    },
+    {
+      "journee": "j13",
+      "date": "samedi 03 décembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "23 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7762-la-rochelle-racing-92"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 04 décembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bo",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "30 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7763-toulouse-brive"
+    },
+    {
+      "journee": "j13",
+      "date": "dimanche 04 décembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "37 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j13/7764-toulon-bordeaux-begles"
+    },
+    {
+      "journee": "j14",
+      "date": "jeudi 22 décembre",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "score": "26 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7765-grenoble-toulouse"
+    },
+    {
+      "journee": "j14",
+      "date": "vendredi 23 décembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "22 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7766-brive-lyon"
+    },
+    {
+      "journee": "j14",
+      "date": "vendredi 23 décembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "46"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "46 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7767-clermont-paris"
+    },
+    {
+      "journee": "j14",
+      "date": "vendredi 23 décembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "score": "17 - 42",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7768-bayonne-la-rochelle"
+    },
+    {
+      "journee": "j14",
+      "date": "vendredi 23 décembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "23 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7769-racing-92-castres"
+    },
+    {
+      "journee": "j14",
+      "date": "vendredi 23 décembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "16 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7770-bordeaux-begles-pau"
+    },
+    {
+      "journee": "j14",
+      "date": "vendredi 23 décembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "29"
+      },
+      "score": "33 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j14/7771-montpellier-toulon"
+    },
+    {
+      "journee": "j15",
+      "date": "vendredi 30 décembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "16"
+      },
+      "score": "19 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7772-lyon-bordeaux-begles"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 31 décembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "score": "32 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7773-pau-montpellier"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 31 décembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "47"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "47 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7774-castres-bayonne"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 31 décembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "12"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "10"
+      },
+      "score": "12 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7775-paris-brive"
+    },
+    {
+      "journee": "j15",
+      "date": "samedi 31 décembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "26 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7776-toulouse-clermont"
+    },
+    {
+      "journee": "j15",
+      "date": "dimanche 01 janvier",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "40 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7777-la-rochelle-grenoble"
+    },
+    {
+      "journee": "j15",
+      "date": "dimanche 01 janvier",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "17 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j15/7778-toulon-racing-92"
+    },
+    {
+      "journee": "j16",
+      "date": "vendredi 06 janvier",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "31 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7779-montpellier-bordeaux-begles"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 07 janvier",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "score": "23 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7780-brive-grenoble"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 07 janvier",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "8"
+      },
+      "score": "22 - 8",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7781-la-rochelle-castres"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 08 janvier",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "15 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7782-paris-toulouse"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 08 janvier",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "30 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7783-clermont-toulon"
+    },
+    {
+      "journee": "j16",
+      "date": "samedi 11 février",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "59"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "59 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7784-racing-92-bayonne"
+    },
+    {
+      "journee": "j16",
+      "date": "dimanche 12 février",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "38"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "38 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j16/7785-pau-lyon"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 28 janvier",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "20 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7786-toulon-la-rochelle"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 28 janvier",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "44"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "44 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7787-grenoble-paris"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 28 janvier",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "38"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "38 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7788-castres-montpellier"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 28 janvier",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "10"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "10 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7789-toulouse-pau"
+    },
+    {
+      "journee": "j17",
+      "date": "samedi 28 janvier",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "37 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7790-lyon-racing-92"
+    },
+    {
+      "journee": "j17",
+      "date": "dimanche 29 janvier",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "33 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7791-bayonne-brive"
+    },
+    {
+      "journee": "j17",
+      "date": "dimanche 29 janvier",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "23 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j17/7792-bordeaux-begles-clermont"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 18 février",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "37 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7793-la-rochelle-paris"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 18 février",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "46"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "46 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7794-clermont-bayonne"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 18 février",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "33 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7795-racing-92-brive"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 18 février",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "39"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "39 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7796-pau-grenoble"
+    },
+    {
+      "journee": "j18",
+      "date": "samedi 18 février",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "31 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7797-toulon-lyon"
+    },
+    {
+      "journee": "j18",
+      "date": "dimanche 19 février",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "17 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7798-bordeaux-begles-castres"
+    },
+    {
+      "journee": "j18",
+      "date": "dimanche 19 février",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "27 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j18/7799-montpellier-toulouse"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 04 mars",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "26 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7800-castres-clermont"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 04 mars",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "25 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7801-bayonne-pau"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 04 mars",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "19 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7802-grenoble-racing-92"
+    },
+    {
+      "journee": "j19",
+      "date": "samedi 04 mars",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "5"
+      },
+      "score": "15 - 5",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7803-brive-toulon"
+    },
+    {
+      "journee": "j19",
+      "date": "dimanche 05 mars",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "16 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7804-lyon-montpellier"
+    },
+    {
+      "journee": "j19",
+      "date": "dimanche 05 mars",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "9"
+      },
+      "score": "32 - 9",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7805-paris-bordeaux-begles"
+    },
+    {
+      "journee": "j19",
+      "date": "dimanche 05 mars",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "21 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j19/7806-toulouse-la-rochelle"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 11 mars",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "35"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "33"
+      },
+      "score": "35 - 33",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7807-lyon-paris"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 11 mars",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "82"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "82 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7808-toulon-bayonne"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 11 mars",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bo",
+        "score": "46"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "46 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7809-bordeaux-begles-grenoble"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 11 mars",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "score": "21 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7810-brive-toulouse"
+    },
+    {
+      "journee": "j20",
+      "date": "samedi 11 mars",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "38"
+      },
+      "score": "15 - 38",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7811-racing-92-la-rochelle"
+    },
+    {
+      "journee": "j20",
+      "date": "dimanche 12 mars",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "18 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7812-pau-castres"
+    },
+    {
+      "journee": "j20",
+      "date": "dimanche 12 mars",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "28"
+      },
+      "score": "19 - 28",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j20/7813-clermont-montpellier"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 18 mars",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "65"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "65 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7814-clermont-pau"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 18 mars",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "24 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7815-bayonne-bordeaux-begles"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 18 mars",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "36 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7816-la-rochelle-brive"
+    },
+    {
+      "journee": "j21",
+      "date": "dimanche 19 mars",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "42 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7817-toulouse-lyon"
+    },
+    {
+      "journee": "j21",
+      "date": "dimanche 19 mars",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "23 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7818-grenoble-toulon"
+    },
+    {
+      "journee": "j21",
+      "date": "mercredi 19 avril",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "33 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7819-castres-paris"
+    },
+    {
+      "journee": "j21",
+      "date": "samedi 22 avril",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "54"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "54 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j21/7820-montpellier-racing-92"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 25 mars",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "score": "27 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7821-racing-92-clermont"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 25 mars",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "21 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7822-grenoble-castres"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 25 mars",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "52 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7823-lyon-bayonne"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 25 mars",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "13 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7824-pau-la-rochelle"
+    },
+    {
+      "journee": "j22",
+      "date": "samedi 25 mars",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "20 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7825-bordeaux-begles-toulouse"
+    },
+    {
+      "journee": "j22",
+      "date": "dimanche 26 mars",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "28 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7826-brive-montpellier"
+    },
+    {
+      "journee": "j22",
+      "date": "dimanche 26 mars",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "17"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "11"
+      },
+      "score": "17 - 11",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j22/7827-paris-toulon"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 08 avril",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "5"
+      },
+      "score": "16 - 5",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7828-la-rochelle-bordeaux-begles"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 08 avril",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "32"
+      },
+      "score": "16 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7829-bayonne-paris"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 08 avril",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "54"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "54 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7830-montpellier-grenoble"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 08 avril",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "16 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7831-castres-lyon"
+    },
+    {
+      "journee": "j23",
+      "date": "samedi 08 avril",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bd",
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "21 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7832-clermont-brive"
+    },
+    {
+      "journee": "j23",
+      "date": "dimanche 09 avril",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "34"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "32"
+      },
+      "score": "34 - 32",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7833-racing-92-pau"
+    },
+    {
+      "journee": "j23",
+      "date": "dimanche 09 avril",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "33 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j23/7834-toulon-toulouse"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 15 avril",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "23 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7835-toulon-castres"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 15 avril",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "19 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7836-brive-bordeaux-begles"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 15 avril",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "18"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "59"
+      },
+      "score": "18 - 59",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7837-grenoble-clermont"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 15 avril",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bo",
+        "score": "51"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "51 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7838-paris-pau"
+    },
+    {
+      "journee": "j24",
+      "date": "samedi 15 avril",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "score": "29 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7839-lyon-la-rochelle"
+    },
+    {
+      "journee": "j24",
+      "date": "dimanche 16 avril",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "61"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "61 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7840-montpellier-bayonne"
+    },
+    {
+      "journee": "j24",
+      "date": "dimanche 16 avril",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bd",
+        "score": "8"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "8 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j24/7841-toulouse-racing-92"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 29 avril",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "52"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": null,
+        "score": "7"
+      },
+      "score": "52 - 7",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7842-castres-toulouse"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 29 avril",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "43"
+      },
+      "exterieur": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": null,
+        "score": "35"
+      },
+      "score": "43 - 35",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7843-bayonne-grenoble"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 29 avril",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "20 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7844-lyon-clermont"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 29 avril",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": "Bd",
+        "score": "27"
+      },
+      "score": "32 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7845-pau-brive"
+    },
+    {
+      "journee": "j25",
+      "date": "samedi 29 avril",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "13 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7846-bordeaux-begles-toulon"
+    },
+    {
+      "journee": "j25",
+      "date": "dimanche 30 avril",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "37"
+      },
+      "score": "40 - 37",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7847-la-rochelle-montpellier"
+    },
+    {
+      "journee": "j25",
+      "date": "dimanche 30 avril",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "score": "27 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j25/7848-paris-racing-92"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "30 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7849-clermont-la-rochelle"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "8e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "33 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7850-brive-castres"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "FC Grenoble Rugby",
+        "classement": "13e",
+        "bonus": "Bo",
+        "score": "53"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "53 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7851-grenoble-lyon"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "27 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7852-montpellier-paris"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "22 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7853-racing-92-bordeaux-begles"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "32"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "9e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "32 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7854-toulon-pau"
+    },
+    {
+      "journee": "j26",
+      "date": "samedi 06 mai",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "12e",
+        "bonus": "Bo",
+        "score": "40"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "14e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "40 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/j26/7855-toulouse-bayonne"
+    },
+    {
+      "journee": "barrages",
+      "date": "vendredi 19 mai",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "5e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "26 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/barrages/7856-toulon-castres"
+    },
+    {
+      "journee": "barrages",
+      "date": "samedi 20 mai",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "3e",
+        "bonus": null,
+        "score": "13"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "13 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/barrages/7857-montpellier-racing-92"
+    },
+    {
+      "journee": "demi-finales",
+      "date": "vendredi 26 mai",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "1e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "18"
+      },
+      "score": "15 - 18",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/demi-finales/7858-la-rochelle-toulon"
+    },
+    {
+      "journee": "demi-finales",
+      "date": "samedi 27 mai",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "37"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "6e",
+        "bonus": null,
+        "score": "31"
+      },
+      "score": "37 - 31",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/demi-finales/7859-clermont-racing-92"
+    },
+    {
+      "journee": "finale",
+      "date": "dimanche 04 juin",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "2e",
+        "bonus": null,
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "4e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "22 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2016-2017/finale/7860-clermont-toulon"
+    }
+  ]
+}

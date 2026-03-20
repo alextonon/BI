@@ -11,7 +11,7 @@ import csv
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-SAISON = "2019-2020"   # ← change ici (ex: "2024-2025")
+SAISON = "2016-2017"   # ← change ici (ex: "2024-2025")
 BASE_URL = "https://top14.lnr.fr"
 HEADERS = {
     "User-Agent": (
@@ -166,59 +166,60 @@ def parse_stats_match(soup) -> dict:
                     stats[key] = {"domicile": None, "exterieur": None}
                 stats[key][team_key] = val.get_text(strip=True)
 
-    # ── Événements du match (game-facts JSON) ─────────────────────────────
-    timeline_tag = soup.find("header-timeline")
-    events = []
-    if timeline_tag:
-        raw = timeline_tag.get(":game-facts", "[]")
-        try:
-            facts = json.loads(raw)
-            for f in facts:
-                player = f.get("player", {})
-                conv = f.get("conversionPlayer")
-                events.append({
-                    "minute":    f.get("minute"),
-                    "type":      f.get("type"),
-                    "sous_type": f.get("subtype"),
-                    "equipe":    f.get("club"),       # "home" ou "away"
-                    "score":     f.get("score"),       # [dom, ext] après l'action
-                    "joueur":    f"{player.get('firstName', '')} {player.get('lastName', '')}".strip(),
-                    "transformateur": (
-                        f"{conv['firstName']} {conv['lastName']}".strip()
-                        if conv else None
-                    ),
-                })
-        except json.JSONDecodeError:
-            pass
+    # # ── Événements du match (game-facts JSON) ─────────────────────────────
+    # timeline_tag = soup.find("header-timeline")
+    # events = []
+    # if timeline_tag:
+    #     raw = timeline_tag.get(":game-facts", "[]")
+    #     try:
+    #         facts = json.loads(raw)
+    #         for f in facts:
+    #             player = f.get("player", {})
+    #             conv = f.get("conversionPlayer")
+    #             events.append({
+    #                 "minute":    f.get("minute"),
+    #                 "type":      f.get("type"),
+    #                 "sous_type": f.get("subtype"),
+    #                 "equipe":    f.get("club"),       # "home" ou "away"
+    #                 "score":     f.get("score"),       # [dom, ext] après l'action
+    #                 "joueur":    f"{player.get('firstName', '')} {player.get('lastName', '')}".strip(),
+    #                 "transformateur": (
+    #                     f"{conv['firstName']} {conv['lastName']}".strip()
+    #                     if conv else None
+    #                 ),
+    #             })
+    #     except json.JSONDecodeError:
+    #         pass
 
-    # ── Stats joueurs (players-ranking JSON) ──────────────────────────────
-    joueurs = {"domicile": [], "exterieur": []}
-    ranking_tags = soup.select("players-ranking[\\:ranking]")
-    for idx, tag in enumerate(ranking_tags[:2]):
-        team_key = "domicile" if idx == 0 else "exterieur"
-        raw = tag.get(":ranking", "[]")
-        try:
-            players = json.loads(raw)
-            for p in players:
-                joueurs[team_key].append({
-                    "nom":              p["player"]["name"],
-                    "url":              p["player"]["url"],
-                    "poste":            p.get("position"),
-                    "minutes":          p.get("minutesPlayed"),
-                    "points":           p.get("nbPoints"),
-                    "essais":           p.get("nbEssais"),
-                    "offloads":         p.get("offload"),
-                    "franchissements":  p.get("lineBreak"),
-                    "ballons_grattés":  p.get("breakdownSteals"),
-                    "plaquages":        p.get("totalSuccessfulTackles"),
-                    "cartons_jaunes":   p.get("nbCartonsJaunes"),
-                    "cartons_oranges":  p.get("nbCartonsOranges"),
-                    "cartons_rouges":   p.get("nbCartonsRouges"),
-                })
-        except json.JSONDecodeError:
-            pass
+    # # ── Stats joueurs (players-ranking JSON) ──────────────────────────────
+    # joueurs = {"domicile": [], "exterieur": []}
+    # ranking_tags = soup.select("players-ranking[\\:ranking]")
+    # for idx, tag in enumerate(ranking_tags[:2]):
+    #     team_key = "domicile" if idx == 0 else "exterieur"
+    #     raw = tag.get(":ranking", "[]")
+    #     try:
+    #         players = json.loads(raw)
+    #         for p in players:
+    #             joueurs[team_key].append({
+    #                 "nom":              p["player"]["name"],
+    #                 "url":              p["player"]["url"],
+    #                 "poste":            p.get("position"),
+    #                 "minutes":          p.get("minutesPlayed"),
+    #                 "points":           p.get("nbPoints"),
+    #                 "essais":           p.get("nbEssais"),
+    #                 "offloads":         p.get("offload"),
+    #                 "franchissements":  p.get("lineBreak"),
+    #                 "ballons_grattés":  p.get("breakdownSteals"),
+    #                 "plaquages":        p.get("totalSuccessfulTackles"),
+    #                 "cartons_jaunes":   p.get("nbCartonsJaunes"),
+    #                 "cartons_oranges":  p.get("nbCartonsOranges"),
+    #                 "cartons_rouges":   p.get("nbCartonsRouges"),
+    #             })
+    #     except json.JSONDecodeError:
+    #         pass
 
-    return {"stats_collectives": stats, "evenements": events, "joueurs": joueurs}
+    # return {"stats_collectives": stats, "evenements": events, "joueurs": joueurs}
+    return {"stats_collectives": stats}
 
 
 def scrape_stats_feuille(lien_feuille: str) -> dict:
@@ -266,6 +267,69 @@ def scrape_saison(saison: str) -> list:
 
     return tous_les_matchs
 
+from datetime import datetime
+
+def parse_rugby_date(date_str, saison_str):
+    # saison_str ex: "2019-2020" -> on prend 2019
+    annee_depart = int(saison_str.split('-')[0])
+    
+    mois_map = {
+        'janvier': 1, 'février': 2, 'mars': 3, 'avril': 4, 'mai': 5, 'juin': 6,
+        'juillet': 7, 'août': 8, 'septembre': 9, 'octobre': 10, 'novembre': 11, 'décembre': 12
+    }
+    
+    try:
+        # Nettoyage de la chaîne (ex: "samedi 25 août")
+        parts = date_str.lower().split()
+        jour = int(parts[1])
+        mois = mois_map[parts[2]]
+        
+        # Si le mois est entre janvier (1) et juin (6), c'est l'année N+1 de la saison
+        annee = annee_depart + 1 if mois <= 6 else annee_depart
+        
+        return datetime(annee, mois, jour).strftime("%d/%m/%Y")
+    except:
+        return date_str # Retourne la string brute en cas d'erreur
+    
+def export_csv_pivot(resultats, saison, filename):
+    with open(filename, "w", encoding="utf-8", newline="") as f:
+        fieldnames = [
+            "journee", "date_formatee", "equipe", "role", 
+            "adversaire", "score_equipe", "score_adversaire", 
+            "classement_avant_match", "bonus"
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+
+        for m in resultats:
+            date_clean = parse_rugby_date(m["date"], saison)
+            
+            # --- Ligne pour l'équipe DOMICILE ---
+            writer.writerow({
+                "journee": m["journee"],
+                "date_formatee": date_clean,
+                "equipe": m["domicile"]["nom"],
+                "role": "Domicile",
+                "adversaire": m["exterieur"]["nom"],
+                "score_equipe": m["domicile"]["score"],
+                "score_adversaire": m["exterieur"]["score"],
+                "classement_avant_match": m["domicile"]["classement"].split("e")[0] if m["domicile"]["classement"] else None,
+                "bonus": m["domicile"]["bonus"]
+            })
+
+            # --- Ligne pour l'équipe EXTÉRIEUR ---
+            writer.writerow({
+                "journee": m["journee"],
+                "date_formatee": date_clean,
+                "equipe": m["exterieur"]["nom"],
+                "role": "Extérieur",
+                "adversaire": m["domicile"]["nom"],
+                "score_equipe": m["exterieur"]["score"],
+                "score_adversaire": m["domicile"]["score"],
+                "classement_avant_match": m["exterieur"]["classement"].split("e")[0] if m["exterieur"]["classement"] else None,
+                "bonus": m["exterieur"]["bonus"]
+            })
+
 
 def main():
     resultats = scrape_saison(SAISON)
@@ -284,32 +348,11 @@ def main():
 
     print(f"\n✅  {len(resultats)} matchs exportés dans '{OUTPUT_FILE}'")
 
-    # ── Export CSV ────────────────────────────────────────────────────────
-    csv_file = OUTPUT_FILE.replace(".json", ".csv")
-    with open(csv_file, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=[
-            "journee", "date",
-            "domicile", "classement_dom", "bonus_dom", "score_dom",
-            "exterieur", "classement_ext", "bonus_ext", "score_ext",
-            "score", "lien_feuille_match",
-        ])
-        writer.writeheader()
-        for m in resultats:
-            writer.writerow({
-                "journee":          m["journee"],
-                "date":             m["date"],
-                "domicile":         m["domicile"]["nom"],
-                "classement_dom":   m["domicile"]["classement"],
-                "bonus_dom":        m["domicile"]["bonus"],
-                "score_dom":        m["domicile"]["score"],
-                "exterieur":        m["exterieur"]["nom"],
-                "classement_ext":   m["exterieur"]["classement"],
-                "bonus_ext":        m["exterieur"]["bonus"],
-                "score_ext":        m["exterieur"]["score"],
-                "score":            m["score"],
-                "lien_feuille_match": m["lien_feuille_match"],
-            })
-    print(f"✅  CSV exporté dans '{csv_file}'")
+    # ── Export CSV Pivoté ──────────────────────────────────────────────────
+    csv_file = OUTPUT_FILE.replace(".json", "_tableau.csv")
+    export_csv_pivot(resultats, SAISON, csv_file)
+    
+    print(f"✅ CSV optimisé pour Tableau exporté dans '{csv_file}'")
 
 if __name__ == "__main__":
     main()

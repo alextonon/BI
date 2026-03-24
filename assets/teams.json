@@ -1,0 +1,53 @@
+{
+    "LOU Rugby": {
+        "logo" : "assets/logos/LOU_Rugby_Logo.png"
+    },
+    "CA Brive": {
+        "logo" : "assets/logos/Logo_Club_athlétique_Brive_Corrèze.svg.png"
+    },
+    "Castres Olympique": {
+        "logo" : "assets/logos/Logo_Castres_olympique_2018.svg.png"
+    },
+    "Section Paloise": {
+        "logo" : "assets/logos/Section_Paloise_logo.svg.png"
+    },
+    "Union Bordeaux-Bègles": {
+        "logo" : "assets/logos/Logo_Union_Bordeaux_Bègles_2016.png"
+    },
+    "Racing 92": {
+        "logo" : "assets/logos/Logo_Racing_Métro_92_(2).svg.png"
+    },
+    "Stade Français Paris": {
+        "logo" : "assets/logos/Logo_Stade_français_Paris_2013.svg.png"
+    },
+    "FC Grenoble Rugby": {
+        "logo" : "assets/logos/Logo_FC_Grenoble_Rugby.svg.png"
+    },
+    "Stade Rochelais": {
+        "logo" : "assets/logos/StadeRochelaislogo.svg.png"
+    },
+    "ASM Clermont": {
+        "logo" : "assets/logos/Logo_ASM_Clermont_Auvergne_2004.svg.png"
+    },
+    "Stade Toulousain": {
+        "logo" : "assets/logos/ST.png"
+    },
+    "Montpellier Hérault Rugby": {
+        "logo" : "assets/logos/Logo_Montpellier_Hérault_rugby_2013.svg.png"
+    },
+    "Aviron Bayonnais": {
+        "logo" : "assets/logos/Aviron-Bayonnais-logo-.svg.png"
+    },
+    "RC Toulon": {
+        "logo" : "assets/logos/Logo_RC_Toulon_2015.svg.png"
+    },
+    "Oyonnax Rugby": {
+        "logo" : "assets/logos/Logo_Oyonnax_rugby_2018.svg.png"
+    },
+    "SU Agen": {
+        "logo" : "assets/logos/Logo_Sporting_Union_Agen_Lot-et-Garonne_2020.svg.png"
+    },
+    "USA Perpignan": {
+        "logo" : "assets/logos/Logo_USA_Perpignan_2017.svg.png"
+    }
+}

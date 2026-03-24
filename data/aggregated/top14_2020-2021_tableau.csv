@@ -1,0 +1,99 @@
+journee,date_formatee,equipe,role,adversaire,score_equipe,score_adversaire,classement_avant_match,bonus
+j1,04/09/2020,Montpellier Hérault Rugby,Domicile,Section Paloise,23,26,10,Bd
+j1,04/09/2020,Section Paloise,Extérieur,Montpellier Hérault Rugby,26,23,12,
+j1,05/09/2020,Stade Rochelais,Domicile,RC Toulon,29,15,2,
+j1,05/09/2020,RC Toulon,Extérieur,Stade Rochelais,15,29,8,
+j1,05/09/2020,LOU Rugby,Domicile,Racing 92,23,27,9,Bd
+j1,05/09/2020,Racing 92,Extérieur,LOU Rugby,27,23,3,
+j1,05/09/2020,SU Agen,Domicile,Castres Olympique,22,26,14,Bd
+j1,05/09/2020,Castres Olympique,Extérieur,SU Agen,26,22,7,
+j1,06/09/2020,CA Brive,Domicile,Aviron Bayonnais,42,23,11,
+j1,06/09/2020,Aviron Bayonnais,Extérieur,CA Brive,23,42,13,
+j1,06/09/2020,ASM Clermont,Domicile,Stade Toulousain,33,30,5,
+j1,06/09/2020,Stade Toulousain,Extérieur,ASM Clermont,30,33,1,Bd
+j1,21/11/2020,Stade Français Paris,Domicile,Union Bordeaux-Bègles,26,16,6,
+j1,21/11/2020,Union Bordeaux-Bègles,Extérieur,Stade Français Paris,16,26,4,
+j2,11/09/2020,Racing 92,Domicile,Montpellier Hérault Rugby,41,17,3,Bo
+j2,11/09/2020,Montpellier Hérault Rugby,Extérieur,Racing 92,17,41,10,
+j2,11/09/2020,Section Paloise,Domicile,SU Agen,33,23,12,
+j2,11/09/2020,SU Agen,Extérieur,Section Paloise,23,33,14,
+j2,12/09/2020,Stade Toulousain,Domicile,Stade Rochelais,39,23,1,
+j2,12/09/2020,Stade Rochelais,Extérieur,Stade Toulousain,23,39,2,
+j2,12/09/2020,Aviron Bayonnais,Domicile,ASM Clermont,21,19,13,
+j2,12/09/2020,ASM Clermont,Extérieur,Aviron Bayonnais,19,21,5,Bd
+j2,12/09/2020,Union Bordeaux-Bègles,Domicile,CA Brive,25,20,4,
+j2,12/09/2020,CA Brive,Extérieur,Union Bordeaux-Bègles,20,25,11,Bd
+j2,13/09/2020,Castres Olympique,Domicile,Stade Français Paris,16,22,7,
+j2,13/09/2020,Stade Français Paris,Extérieur,Castres Olympique,22,16,6,
+j2,13/09/2020,RC Toulon,Domicile,LOU Rugby,36,14,8,Bo
+j2,13/09/2020,LOU Rugby,Extérieur,RC Toulon,14,36,9,
+j3,02/10/2020,CA Brive,Domicile,Section Paloise,19,13,11,
+j3,02/10/2020,Section Paloise,Extérieur,CA Brive,13,19,12,
+j3,02/10/2020,Stade Français Paris,Domicile,Aviron Bayonnais,19,26,6,
+j3,02/10/2020,Aviron Bayonnais,Extérieur,Stade Français Paris,26,19,13,
+j3,03/10/2020,ASM Clermont,Domicile,SU Agen,31,12,5,
+j3,03/10/2020,SU Agen,Extérieur,ASM Clermont,12,31,14,
+j3,04/10/2020,Stade Toulousain,Domicile,RC Toulon,39,19,1,
+j3,04/10/2020,RC Toulon,Extérieur,Stade Toulousain,19,39,8,
+j3,05/10/2020,LOU Rugby,Domicile,Union Bordeaux-Bègles,27,10,9,
+j3,05/10/2020,Union Bordeaux-Bègles,Extérieur,LOU Rugby,10,27,4,
+j3,22/11/2020,Stade Rochelais,Domicile,Racing 92,9,6,2,
+j3,22/11/2020,Racing 92,Extérieur,Stade Rochelais,6,9,3,Bd
+j3,17/01/2021,Montpellier Hérault Rugby,Domicile,Castres Olympique,19,21,10,Bd
+j3,17/01/2021,Castres Olympique,Extérieur,Montpellier Hérault Rugby,21,19,7,
+j4,09/10/2020,Aviron Bayonnais,Domicile,Stade Rochelais,19,36,13,
+j4,09/10/2020,Stade Rochelais,Extérieur,Aviron Bayonnais,36,19,2,Bo
+j4,10/10/2020,RC Toulon,Domicile,Montpellier Hérault Rugby,25,21,8,
+j4,10/10/2020,Montpellier Hérault Rugby,Extérieur,RC Toulon,21,25,10,Bd
+j4,10/10/2020,SU Agen,Domicile,Stade Français Paris,3,20,14,
+j4,10/10/2020,Stade Français Paris,Extérieur,SU Agen,20,3,6,
+j4,10/10/2020,Racing 92,Domicile,Stade Toulousain,24,30,3,
+j4,10/10/2020,Stade Toulousain,Extérieur,Racing 92,30,24,1,
+j4,11/10/2020,Section Paloise,Domicile,LOU Rugby,29,29,12,
+j4,11/10/2020,LOU Rugby,Extérieur,Section Paloise,29,29,9,
+j4,22/12/2020,Castres Olympique,Domicile,CA Brive,24,25,7,Bd
+j4,22/12/2020,CA Brive,Extérieur,Castres Olympique,25,24,11,
+j4,16/01/2021,Union Bordeaux-Bègles,Domicile,ASM Clermont,16,16,4,
+j4,16/01/2021,ASM Clermont,Extérieur,Union Bordeaux-Bègles,16,16,5,
+j5,17/10/2020,Montpellier Hérault Rugby,Domicile,SU Agen,42,13,10,Bo
+j5,17/10/2020,SU Agen,Extérieur,Montpellier Hérault Rugby,13,42,14,
+j5,17/10/2020,Section Paloise,Domicile,Union Bordeaux-Bègles,29,24,12,
+j5,17/10/2020,Union Bordeaux-Bègles,Extérieur,Section Paloise,24,29,4,Bd
+j5,17/10/2020,Stade Rochelais,Domicile,Castres Olympique,62,3,2,Bo
+j5,17/10/2020,Castres Olympique,Extérieur,Stade Rochelais,3,62,7,
+j5,17/10/2020,CA Brive,Domicile,Stade Toulousain,16,36,11,
+j5,17/10/2020,Stade Toulousain,Extérieur,CA Brive,36,16,1,Bo
+j5,18/10/2020,LOU Rugby,Domicile,Aviron Bayonnais,62,10,9,Bo
+j5,18/10/2020,Aviron Bayonnais,Extérieur,LOU Rugby,10,62,13,
+j5,18/10/2020,ASM Clermont,Domicile,Stade Français Paris,41,27,5,
+j5,18/10/2020,Stade Français Paris,Extérieur,ASM Clermont,27,41,6,
+j5,17/01/2021,Racing 92,Domicile,RC Toulon,23,29,3,
+j5,17/01/2021,RC Toulon,Extérieur,Racing 92,29,23,8,
+j6,23/10/2020,RC Toulon,Domicile,Castres Olympique,19,6,8,
+j6,23/10/2020,Castres Olympique,Extérieur,RC Toulon,6,19,7,
+j6,24/10/2020,Stade Toulousain,Domicile,LOU Rugby,7,16,1,
+j6,24/10/2020,LOU Rugby,Extérieur,Stade Toulousain,16,7,9,
+j6,24/10/2020,ASM Clermont,Domicile,Section Paloise,50,29,5,Bo
+j6,24/10/2020,Section Paloise,Extérieur,ASM Clermont,29,50,12,
+j6,24/10/2020,Stade Français Paris,Domicile,Racing 92,25,27,6,Bd
+j6,24/10/2020,Racing 92,Extérieur,Stade Français Paris,27,25,3,
+j6,24/10/2020,SU Agen,Domicile,Aviron Bayonnais,15,26,14,
+j6,24/10/2020,Aviron Bayonnais,Extérieur,SU Agen,26,15,13,
+j6,25/10/2020,Montpellier Hérault Rugby,Domicile,CA Brive,30,6,10,Bo
+j6,25/10/2020,CA Brive,Extérieur,Montpellier Hérault Rugby,6,30,11,
+j6,25/10/2020,Stade Rochelais,Domicile,Union Bordeaux-Bègles,20,6,2,
+j6,25/10/2020,Union Bordeaux-Bègles,Extérieur,Stade Rochelais,6,20,4,
+j7,31/10/2020,CA Brive,Domicile,ASM Clermont,21,43,11,
+j7,31/10/2020,ASM Clermont,Extérieur,CA Brive,43,21,5,Bo
+j7,31/10/2020,Castres Olympique,Domicile,Racing 92,28,26,7,
+j7,31/10/2020,Racing 92,Extérieur,Castres Olympique,26,28,3,Bd
+j7,31/10/2020,Union Bordeaux-Bègles,Domicile,SU Agen,71,5,4,Bo
+j7,31/10/2020,SU Agen,Extérieur,Union Bordeaux-Bègles,5,71,14,
+j7,01/11/2020,Section Paloise,Domicile,Stade Rochelais,24,35,12,
+j7,01/11/2020,Stade Rochelais,Extérieur,Section Paloise,35,24,2,
+j7,01/11/2020,Stade Français Paris,Domicile,Stade Toulousain,48,14,6,Bo
+j7,01/11/2020,Stade Toulousain,Extérieur,Stade Français Paris,14,48,1,
+j7,21/11/2020,Aviron Bayonnais,Domicile,RC Toulon,35,29,13,
+j7,21/11/2020,RC Toulon,Extérieur,Aviron Bayonnais,29,35,8,
+j7,06/01/2021,LOU Rugby,Domicile,Montpellier Hérault Rugby,24,20,9,
+j7,06/01/2021,Montpellier Hérault Rugby,Extérieur,LOU Rugby,20,24,10,Bd

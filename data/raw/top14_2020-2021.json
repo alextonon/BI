@@ -1,0 +1,5689 @@
+{
+  "saison": "2020-2021",
+  "total_matchs": 49,
+  "matchs": [
+    {
+      "journee": "j1",
+      "date": "vendredi 04 septembre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "23 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9306-montpellier-pau",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "78 %",
+            "exterieur": "22 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "11"
+          },
+          "Mêlées perdues": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "6"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Touches obtenues": {
+            "domicile": "18",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "16",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "22",
+            "exterieur": "14"
+          },
+          "Plaquages réussis": {
+            "domicile": "127",
+            "exterieur": "109"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "6",
+            "exterieur": "10"
+          },
+          "Plaquages manqués": {
+            "domicile": "11",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "25",
+            "exterieur": "14"
+          },
+          "Ballons passés": {
+            "domicile": "103",
+            "exterieur": "109"
+          },
+          "Carton yellow": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 05 septembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": null,
+        "score": "15"
+      },
+      "score": "29 - 15",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9307-la-rochelle-toulon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "24 %",
+            "exterieur": "76 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "53 %",
+            "exterieur": "47 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "8"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "13",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "5"
+          },
+          "Pénalités concédées": {
+            "domicile": "18",
+            "exterieur": "15"
+          },
+          "Plaquages réussis": {
+            "domicile": "61",
+            "exterieur": "61"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "0"
+          },
+          "Plaquages manqués": {
+            "domicile": "10",
+            "exterieur": "9"
+          },
+          "Ballons joués au pied": {
+            "domicile": "18",
+            "exterieur": "23"
+          },
+          "Ballons passés": {
+            "domicile": "85",
+            "exterieur": "73"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 05 septembre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": "Bd",
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "23 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9308-lyon-racing-92",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "47 %",
+            "exterieur": "53 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "38 %",
+            "exterieur": "62 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "53 %",
+            "exterieur": "47 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "9",
+            "exterieur": "7"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "6"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "12",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "11"
+          },
+          "Plaquages réussis": {
+            "domicile": "95",
+            "exterieur": "106"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "7",
+            "exterieur": "3"
+          },
+          "Plaquages manqués": {
+            "domicile": "9",
+            "exterieur": "22"
+          },
+          "Ballons joués au pied": {
+            "domicile": "20",
+            "exterieur": "15"
+          },
+          "Ballons passés": {
+            "domicile": "114",
+            "exterieur": "111"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 05 septembre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": "Bd",
+        "score": "22"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "22 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9309-agen-castres",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "66 %",
+            "exterieur": "34 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "53 %",
+            "exterieur": "47 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "47 %",
+            "exterieur": "53 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "6",
+            "exterieur": "4"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "13",
+            "exterieur": "19"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "8",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "20",
+            "exterieur": "16"
+          },
+          "Plaquages réussis": {
+            "domicile": "107",
+            "exterieur": "73"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "7",
+            "exterieur": "3"
+          },
+          "Plaquages manqués": {
+            "domicile": "23",
+            "exterieur": "10"
+          },
+          "Ballons joués au pied": {
+            "domicile": "20",
+            "exterieur": "24"
+          },
+          "Ballons passés": {
+            "domicile": "76",
+            "exterieur": "101"
+          },
+          "Carton yellow": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j1",
+      "date": "dimanche 06 septembre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "42 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9310-brive-bayonne",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "60 %",
+            "exterieur": "40 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "63 %",
+            "exterieur": "37 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "11",
+            "exterieur": "4"
+          },
+          "Mêlées perdues": {
+            "domicile": "3",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "4"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "13",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "11",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "7",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "19"
+          },
+          "Plaquages réussis": {
+            "domicile": "129",
+            "exterieur": "111"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "8",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "15",
+            "exterieur": "25"
+          },
+          "Ballons joués au pied": {
+            "domicile": "19",
+            "exterieur": "14"
+          },
+          "Ballons passés": {
+            "domicile": "115",
+            "exterieur": "81"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j1",
+      "date": "dimanche 06 septembre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bd",
+        "score": "30"
+      },
+      "score": "33 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9311-clermont-toulouse",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "4"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "39 %",
+            "exterieur": "61 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "63 %",
+            "exterieur": "37 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "62 %",
+            "exterieur": "38 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "40 %",
+            "exterieur": "60 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "3"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Mêlées refaites": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "11",
+            "exterieur": "14"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "14"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "14",
+            "exterieur": "18"
+          },
+          "Plaquages réussis": {
+            "domicile": "115",
+            "exterieur": "112"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "4",
+            "exterieur": "9"
+          },
+          "Plaquages manqués": {
+            "domicile": "20",
+            "exterieur": "33"
+          },
+          "Ballons joués au pied": {
+            "domicile": "13",
+            "exterieur": "18"
+          },
+          "Ballons passés": {
+            "domicile": "113",
+            "exterieur": "93"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "2"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j1",
+      "date": "samedi 21 novembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": null,
+        "score": "26"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "26 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j1/9312-paris-bordeaux-begles",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "55 %",
+            "exterieur": "45 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "35 %",
+            "exterieur": "65 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "7",
+            "exterieur": "5"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "3"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "7"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "7",
+            "exterieur": "14"
+          },
+          "Plaquages réussis": {
+            "domicile": "90",
+            "exterieur": "142"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "3"
+          },
+          "Plaquages manqués": {
+            "domicile": "12",
+            "exterieur": "21"
+          },
+          "Ballons joués au pied": {
+            "domicile": "33",
+            "exterieur": "25"
+          },
+          "Ballons passés": {
+            "domicile": "145",
+            "exterieur": "113"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "vendredi 11 septembre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bo",
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": null,
+        "score": "17"
+      },
+      "score": "41 - 17",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9313-racing-92-montpellier",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "5",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "46 %",
+            "exterieur": "54 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "33 %",
+            "exterieur": "67 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "53 %",
+            "exterieur": "47 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "47 %",
+            "exterieur": "53 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "10",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "9",
+            "exterieur": "6"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "17",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "13",
+            "exterieur": "11"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "1"
+          },
+          "Pénalités concédées": {
+            "domicile": "8",
+            "exterieur": "18"
+          },
+          "Plaquages réussis": {
+            "domicile": "138",
+            "exterieur": "103"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "12",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "20",
+            "exterieur": "17"
+          },
+          "Ballons joués au pied": {
+            "domicile": "18",
+            "exterieur": "13"
+          },
+          "Ballons passés": {
+            "domicile": "117",
+            "exterieur": "121"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "1",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "vendredi 11 septembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "33"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "33 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9314-pau-agen",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "62 %",
+            "exterieur": "38 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "86 %",
+            "exterieur": "14 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "35 %",
+            "exterieur": "65 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "60 %",
+            "exterieur": "40 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "5",
+            "exterieur": "15"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "8"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "6"
+          },
+          "Touches obtenues": {
+            "domicile": "14",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "12",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "5"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "14"
+          },
+          "Plaquages réussis": {
+            "domicile": "138",
+            "exterieur": "138"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "12",
+            "exterieur": "20"
+          },
+          "Ballons joués au pied": {
+            "domicile": "29",
+            "exterieur": "25"
+          },
+          "Ballons passés": {
+            "domicile": "149",
+            "exterieur": "152"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "1"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 12 septembre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "39"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": null,
+        "score": "23"
+      },
+      "score": "39 - 23",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9315-toulouse-la-rochelle",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "43 %",
+            "exterieur": "57 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "57 %",
+            "exterieur": "43 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "5",
+            "exterieur": "7"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "10",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "8",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "6",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "15"
+          },
+          "Plaquages réussis": {
+            "domicile": "109",
+            "exterieur": "107"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "29",
+            "exterieur": "21"
+          },
+          "Ballons joués au pied": {
+            "domicile": "18",
+            "exterieur": "18"
+          },
+          "Ballons passés": {
+            "domicile": "152",
+            "exterieur": "131"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 12 septembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "score": "21 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9316-bayonne-clermont",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "37 %",
+            "exterieur": "63 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "46 %",
+            "exterieur": "54 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "17",
+            "exterieur": "17"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "14",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "9",
+            "exterieur": "14"
+          },
+          "Plaquages réussis": {
+            "domicile": "114",
+            "exterieur": "95"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Plaquages manqués": {
+            "domicile": "27",
+            "exterieur": "10"
+          },
+          "Ballons joués au pied": {
+            "domicile": "15",
+            "exterieur": "11"
+          },
+          "Ballons passés": {
+            "domicile": "100",
+            "exterieur": "158"
+          },
+          "Carton yellow": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "samedi 12 septembre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "25 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9317-bordeaux-begles-brive",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "57 %",
+            "exterieur": "43 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "55 %",
+            "exterieur": "45 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "39 %",
+            "exterieur": "61 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "7"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "7",
+            "exterieur": "3"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "6"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "3",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "5"
+          },
+          "Pénalités concédées": {
+            "domicile": "15",
+            "exterieur": "12"
+          },
+          "Plaquages réussis": {
+            "domicile": "107",
+            "exterieur": "142"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "7"
+          },
+          "Plaquages manqués": {
+            "domicile": "13",
+            "exterieur": "20"
+          },
+          "Ballons joués au pied": {
+            "domicile": "14",
+            "exterieur": "15"
+          },
+          "Ballons passés": {
+            "domicile": "142",
+            "exterieur": "88"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "1",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 13 septembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": null,
+        "score": "22"
+      },
+      "score": "16 - 22",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9318-castres-paris",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "69 %",
+            "exterieur": "31 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "79 %",
+            "exterieur": "21 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "27 %",
+            "exterieur": "73 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "63 %",
+            "exterieur": "37 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "7",
+            "exterieur": "5"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "4"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "20",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "15",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "5"
+          },
+          "Pénalités concédées": {
+            "domicile": "17",
+            "exterieur": "18"
+          },
+          "Plaquages réussis": {
+            "domicile": "89",
+            "exterieur": "106"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "9",
+            "exterieur": "10"
+          },
+          "Plaquages manqués": {
+            "domicile": "16",
+            "exterieur": "12"
+          },
+          "Ballons joués au pied": {
+            "domicile": "12",
+            "exterieur": "15"
+          },
+          "Ballons passés": {
+            "domicile": "81",
+            "exterieur": "89"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "1"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j2",
+      "date": "dimanche 13 septembre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "36 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j2/9319-toulon-lyon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "33 %",
+            "exterieur": "67 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "43 %",
+            "exterieur": "57 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "7",
+            "exterieur": "12"
+          },
+          "Mêlées perdues": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "8"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Touches obtenues": {
+            "domicile": "15",
+            "exterieur": "8"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "12",
+            "exterieur": "6"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "5",
+            "exterieur": "3"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "17"
+          },
+          "Plaquages réussis": {
+            "domicile": "97",
+            "exterieur": "103"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "5",
+            "exterieur": "0"
+          },
+          "Plaquages manqués": {
+            "domicile": "16",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "15",
+            "exterieur": "20"
+          },
+          "Ballons passés": {
+            "domicile": "74",
+            "exterieur": "86"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "5"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "vendredi 02 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "19 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9320-brive-pau",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "17 %",
+            "exterieur": "83 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "54 %",
+            "exterieur": "46 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "13",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "10"
+          },
+          "Plaquages réussis": {
+            "domicile": "96",
+            "exterieur": "97"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "6",
+            "exterieur": "7"
+          },
+          "Plaquages manqués": {
+            "domicile": "8",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "24",
+            "exterieur": "22"
+          },
+          "Ballons passés": {
+            "domicile": "74",
+            "exterieur": "106"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "2",
+            "exterieur": "1"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "vendredi 02 octobre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "19 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9321-paris-bayonne",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "58 %",
+            "exterieur": "42 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "73 %",
+            "exterieur": "27 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "41 %",
+            "exterieur": "59 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "57 %",
+            "exterieur": "43 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "9",
+            "exterieur": "6"
+          },
+          "Mêlées perdues": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "3",
+            "exterieur": "3"
+          },
+          "Mêlées refaites": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "15",
+            "exterieur": "18"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "11",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "98",
+            "exterieur": "115"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "9",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "13",
+            "exterieur": "11"
+          },
+          "Ballons joués au pied": {
+            "domicile": "14",
+            "exterieur": "21"
+          },
+          "Ballons passés": {
+            "domicile": "108",
+            "exterieur": "111"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "1",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "samedi 03 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": null,
+        "score": "31"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": null,
+        "score": "12"
+      },
+      "score": "31 - 12",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9322-clermont-agen",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "58 %",
+            "exterieur": "42 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "77 %",
+            "exterieur": "23 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "43 %",
+            "exterieur": "57 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "57 %",
+            "exterieur": "43 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "4"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "2"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "23",
+            "exterieur": "22"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "16",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "20"
+          },
+          "Plaquages réussis": {
+            "domicile": "91",
+            "exterieur": "143"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "1",
+            "exterieur": "9"
+          },
+          "Plaquages manqués": {
+            "domicile": "20",
+            "exterieur": "29"
+          },
+          "Ballons joués au pied": {
+            "domicile": "21",
+            "exterieur": "21"
+          },
+          "Ballons passés": {
+            "domicile": "221",
+            "exterieur": "98"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 04 octobre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "39"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": null,
+        "score": "19"
+      },
+      "score": "39 - 19",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9323-toulouse-toulon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "5",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "6",
+            "exterieur": "3"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "16",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "13",
+            "exterieur": "14"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "11"
+          },
+          "Plaquages réussis": {
+            "domicile": "113",
+            "exterieur": "128"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "4",
+            "exterieur": "8"
+          },
+          "Plaquages manqués": {
+            "domicile": "14",
+            "exterieur": "26"
+          },
+          "Ballons joués au pied": {
+            "domicile": "17",
+            "exterieur": "19"
+          },
+          "Ballons passés": {
+            "domicile": "191",
+            "exterieur": "107"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "1",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "lundi 05 octobre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": null,
+        "score": "27"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "27 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9324-lyon-bordeaux-begles",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "40 %",
+            "exterieur": "60 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "31 %",
+            "exterieur": "69 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "59 %",
+            "exterieur": "41 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "41 %",
+            "exterieur": "59 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "10",
+            "exterieur": "7"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "7",
+            "exterieur": "6"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "12",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "16",
+            "exterieur": "12"
+          },
+          "Plaquages réussis": {
+            "domicile": "203",
+            "exterieur": "102"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "13",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "31",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "31",
+            "exterieur": "14"
+          },
+          "Ballons passés": {
+            "domicile": "81",
+            "exterieur": "151"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 22 novembre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": null,
+        "score": "9"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "6"
+      },
+      "score": "9 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9325-la-rochelle-racing-92",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "18 %",
+            "exterieur": "82 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "60 %",
+            "exterieur": "40 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "6",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "14",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "11",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "16",
+            "exterieur": "8"
+          },
+          "Plaquages réussis": {
+            "domicile": "115",
+            "exterieur": "121"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "4",
+            "exterieur": "1"
+          },
+          "Plaquages manqués": {
+            "domicile": "8",
+            "exterieur": "14"
+          },
+          "Ballons joués au pied": {
+            "domicile": "35",
+            "exterieur": "34"
+          },
+          "Ballons passés": {
+            "domicile": "128",
+            "exterieur": "109"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j3",
+      "date": "dimanche 17 janvier",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "21"
+      },
+      "score": "19 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j3/9326-montpellier-castres",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "37 %",
+            "exterieur": "63 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "32 %",
+            "exterieur": "68 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "64 %",
+            "exterieur": "36 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "41 %",
+            "exterieur": "59 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "5",
+            "exterieur": "3"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "1"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "7"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "11"
+          },
+          "Plaquages réussis": {
+            "domicile": "127",
+            "exterieur": "132"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "5",
+            "exterieur": "1"
+          },
+          "Plaquages manqués": {
+            "domicile": "19",
+            "exterieur": "19"
+          },
+          "Ballons joués au pied": {
+            "domicile": "36",
+            "exterieur": "32"
+          },
+          "Ballons passés": {
+            "domicile": "127",
+            "exterieur": "139"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "vendredi 09 octobre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "score": "19 - 36",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9327-bayonne-la-rochelle",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "43 %",
+            "exterieur": "57 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "59 %",
+            "exterieur": "41 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "59 %",
+            "exterieur": "41 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "43 %",
+            "exterieur": "57 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "6"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "19",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "19",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "10",
+            "exterieur": "19"
+          },
+          "Plaquages réussis": {
+            "domicile": "89",
+            "exterieur": "84"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "5"
+          },
+          "Plaquages manqués": {
+            "domicile": "7",
+            "exterieur": "23"
+          },
+          "Ballons joués au pied": {
+            "domicile": "16",
+            "exterieur": "26"
+          },
+          "Ballons passés": {
+            "domicile": "119",
+            "exterieur": "109"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": null,
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "21"
+      },
+      "score": "25 - 21",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9328-toulon-montpellier",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "46 %",
+            "exterieur": "54 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "36 %",
+            "exterieur": "64 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "54 %",
+            "exterieur": "46 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "7",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "7",
+            "exterieur": "11"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "4",
+            "exterieur": "8"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Pénalités réussies": {
+            "domicile": "6",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "16"
+          },
+          "Plaquages réussis": {
+            "domicile": "142",
+            "exterieur": "81"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "4",
+            "exterieur": "1"
+          },
+          "Plaquages manqués": {
+            "domicile": "20",
+            "exterieur": "18"
+          },
+          "Ballons joués au pied": {
+            "domicile": "14",
+            "exterieur": "16"
+          },
+          "Ballons passés": {
+            "domicile": "93",
+            "exterieur": "129"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 octobre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": null,
+        "score": "3"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": null,
+        "score": "20"
+      },
+      "score": "3 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9329-agen-paris",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "54 %",
+            "exterieur": "46 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "42 %",
+            "exterieur": "58 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "16",
+            "exterieur": "14"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "6",
+            "exterieur": "6"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "9"
+          },
+          "Plaquages réussis": {
+            "domicile": "94",
+            "exterieur": "72"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "11",
+            "exterieur": "9"
+          },
+          "Ballons joués au pied": {
+            "domicile": "25",
+            "exterieur": "32"
+          },
+          "Ballons passés": {
+            "domicile": "87",
+            "exterieur": "128"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 10 octobre",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "30"
+      },
+      "score": "24 - 30",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9330-racing-92-toulouse",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "7",
+            "exterieur": "4"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "3"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "8",
+            "exterieur": "18"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "7",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "9",
+            "exterieur": "9"
+          },
+          "Plaquages réussis": {
+            "domicile": "84",
+            "exterieur": "154"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "9",
+            "exterieur": "1"
+          },
+          "Plaquages manqués": {
+            "domicile": "15",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "34",
+            "exterieur": "32"
+          },
+          "Ballons passés": {
+            "domicile": "178",
+            "exterieur": "94"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "dimanche 11 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "29 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9331-pau-lyon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "53 %",
+            "exterieur": "47 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "58 %",
+            "exterieur": "42 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "15",
+            "exterieur": "4"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "10",
+            "exterieur": "3"
+          },
+          "Mêlées refaites": {
+            "domicile": "3",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "10",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "8",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "16"
+          },
+          "Plaquages réussis": {
+            "domicile": "76",
+            "exterieur": "141"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "24",
+            "exterieur": "6"
+          },
+          "Ballons joués au pied": {
+            "domicile": "20",
+            "exterieur": "18"
+          },
+          "Ballons passés": {
+            "domicile": "117",
+            "exterieur": "68"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "3"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "mardi 22 décembre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "25"
+      },
+      "score": "24 - 25",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9332-castres-brive",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "42 %",
+            "exterieur": "58 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "4",
+            "exterieur": "6"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "3",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "12",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "6"
+          },
+          "Pénalités concédées": {
+            "domicile": "15",
+            "exterieur": "6"
+          },
+          "Plaquages réussis": {
+            "domicile": "132",
+            "exterieur": "96"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "5"
+          },
+          "Plaquages manqués": {
+            "domicile": "25",
+            "exterieur": "15"
+          },
+          "Ballons joués au pied": {
+            "domicile": "17",
+            "exterieur": "22"
+          },
+          "Ballons passés": {
+            "domicile": "108",
+            "exterieur": "144"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j4",
+      "date": "samedi 16 janvier",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "16 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j4/9333-bordeaux-begles-clermont",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "66 %",
+            "exterieur": "34 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "20 %",
+            "exterieur": "80 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "32 %",
+            "exterieur": "68 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "63 %",
+            "exterieur": "37 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "6",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "4"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "19",
+            "exterieur": "18"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "15",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "5",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "12"
+          },
+          "Plaquages réussis": {
+            "domicile": "116",
+            "exterieur": "91"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "24",
+            "exterieur": "21"
+          },
+          "Ballons joués au pied": {
+            "domicile": "21",
+            "exterieur": "23"
+          },
+          "Ballons passés": {
+            "domicile": "126",
+            "exterieur": "147"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 octobre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "42"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": null,
+        "score": "13"
+      },
+      "score": "42 - 13",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9334-montpellier-agen",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "5",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "10"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "16",
+            "exterieur": "7"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "11",
+            "exterieur": "7"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "9",
+            "exterieur": "16"
+          },
+          "Plaquages réussis": {
+            "domicile": "123",
+            "exterieur": "93"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Plaquages manqués": {
+            "domicile": "10",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "19",
+            "exterieur": "27"
+          },
+          "Ballons passés": {
+            "domicile": "101",
+            "exterieur": "141"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 octobre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "29"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": "Bd",
+        "score": "24"
+      },
+      "score": "29 - 24",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9335-pau-bordeaux-begles",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "47 %",
+            "exterieur": "53 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "6",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "8"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "14",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "6"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "17"
+          },
+          "Plaquages réussis": {
+            "domicile": "120",
+            "exterieur": "113"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "5"
+          },
+          "Plaquages manqués": {
+            "domicile": "25",
+            "exterieur": "9"
+          },
+          "Ballons joués au pied": {
+            "domicile": "18",
+            "exterieur": "17"
+          },
+          "Ballons passés": {
+            "domicile": "136",
+            "exterieur": "96"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "3"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "1",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 octobre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": "Bo",
+        "score": "62"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "3"
+      },
+      "score": "62 - 3",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9336-la-rochelle-castres",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "6",
+            "exterieur": "0"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "88 %",
+            "exterieur": "12 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "57 %",
+            "exterieur": "43 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "14",
+            "exterieur": "7"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "4"
+          },
+          "Mêlées gagnées": {
+            "domicile": "12",
+            "exterieur": "0"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Touches obtenues": {
+            "domicile": "10",
+            "exterieur": "8"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "7",
+            "exterieur": "7"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "1"
+          },
+          "Pénalités concédées": {
+            "domicile": "5",
+            "exterieur": "24"
+          },
+          "Plaquages réussis": {
+            "domicile": "101",
+            "exterieur": "114"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "7",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "3",
+            "exterieur": "26"
+          },
+          "Ballons joués au pied": {
+            "domicile": "20",
+            "exterieur": "17"
+          },
+          "Ballons passés": {
+            "domicile": "146",
+            "exterieur": "84"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "samedi 17 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "16"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": "Bo",
+        "score": "36"
+      },
+      "score": "16 - 36",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9337-brive-toulouse",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "5"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "58 %",
+            "exterieur": "42 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "25 %",
+            "exterieur": "75 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "58 %",
+            "exterieur": "42 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "10",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "7",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "14",
+            "exterieur": "11"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "9"
+          },
+          "Plaquages réussis": {
+            "domicile": "81",
+            "exterieur": "135"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "12"
+          },
+          "Plaquages manqués": {
+            "domicile": "19",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "19",
+            "exterieur": "18"
+          },
+          "Ballons passés": {
+            "domicile": "151",
+            "exterieur": "71"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 18 octobre",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": "Bo",
+        "score": "62"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "10"
+      },
+      "score": "62 - 10",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9338-lyon-bayonne",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "10",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "12",
+            "exterieur": "10"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "11",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "11",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "9",
+            "exterieur": "11"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "10",
+            "exterieur": "9"
+          },
+          "Plaquages réussis": {
+            "domicile": "125",
+            "exterieur": "127"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "0",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "15",
+            "exterieur": "29"
+          },
+          "Ballons joués au pied": {
+            "domicile": "21",
+            "exterieur": "14"
+          },
+          "Ballons passés": {
+            "domicile": "133",
+            "exterieur": "193"
+          },
+          "Carton yellow": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 18 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": null,
+        "score": "41"
+      },
+      "exterieur": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "41 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9339-clermont-paris",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "4",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "37 %",
+            "exterieur": "63 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "43 %",
+            "exterieur": "57 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "62 %",
+            "exterieur": "38 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "38 %",
+            "exterieur": "62 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "6"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "5",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "15",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "12",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "9"
+          },
+          "Plaquages réussis": {
+            "domicile": "159",
+            "exterieur": "72"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Plaquages manqués": {
+            "domicile": "21",
+            "exterieur": "6"
+          },
+          "Ballons joués au pied": {
+            "domicile": "19",
+            "exterieur": "20"
+          },
+          "Ballons passés": {
+            "domicile": "72",
+            "exterieur": "178"
+          },
+          "Carton yellow": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j5",
+      "date": "dimanche 17 janvier",
+      "domicile": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "23"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "23 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j5/9340-racing-92-toulon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "54 %",
+            "exterieur": "46 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "86 %",
+            "exterieur": "14 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "47 %",
+            "exterieur": "53 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "54 %",
+            "exterieur": "46 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "11",
+            "exterieur": "11"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "9",
+            "exterieur": "8"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "6",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "6",
+            "exterieur": "8"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "5"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "8"
+          },
+          "Plaquages réussis": {
+            "domicile": "75",
+            "exterieur": "85"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "10",
+            "exterieur": "27"
+          },
+          "Ballons joués au pied": {
+            "domicile": "18",
+            "exterieur": "20"
+          },
+          "Ballons passés": {
+            "domicile": "120",
+            "exterieur": "112"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "vendredi 23 octobre",
+      "domicile": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": null,
+        "score": "19"
+      },
+      "exterieur": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "19 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9341-toulon-castres",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "36 %",
+            "exterieur": "64 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "18 %",
+            "exterieur": "82 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "66 %",
+            "exterieur": "34 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "37 %",
+            "exterieur": "63 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "7",
+            "exterieur": "4"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "7",
+            "exterieur": "4"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "18",
+            "exterieur": "11"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "15",
+            "exterieur": "8"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Pénalités réussies": {
+            "domicile": "4",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "14"
+          },
+          "Plaquages réussis": {
+            "domicile": "148",
+            "exterieur": "88"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "23",
+            "exterieur": "18"
+          },
+          "Ballons joués au pied": {
+            "domicile": "31",
+            "exterieur": "22"
+          },
+          "Ballons passés": {
+            "domicile": "128",
+            "exterieur": "114"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 octobre",
+      "domicile": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "7"
+      },
+      "exterieur": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": null,
+        "score": "16"
+      },
+      "score": "7 - 16",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9342-toulouse-lyon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "61 %",
+            "exterieur": "39 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "41 %",
+            "exterieur": "59 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "57 %",
+            "exterieur": "43 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "11",
+            "exterieur": "1"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "7",
+            "exterieur": "1"
+          },
+          "Mêlées refaites": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "17",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "16",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "10",
+            "exterieur": "15"
+          },
+          "Plaquages réussis": {
+            "domicile": "130",
+            "exterieur": "235"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "9",
+            "exterieur": "5"
+          },
+          "Plaquages manqués": {
+            "domicile": "16",
+            "exterieur": "19"
+          },
+          "Ballons joués au pied": {
+            "domicile": "19",
+            "exterieur": "32"
+          },
+          "Ballons passés": {
+            "domicile": "197",
+            "exterieur": "113"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 octobre",
+      "domicile": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "50"
+      },
+      "exterieur": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "50 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9343-clermont-pau",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "6",
+            "exterieur": "4"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "35 %",
+            "exterieur": "65 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "3",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "3"
+          },
+          "Touches obtenues": {
+            "domicile": "17",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "16",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Pénalités concédées": {
+            "domicile": "19",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "140",
+            "exterieur": "129"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "6",
+            "exterieur": "3"
+          },
+          "Plaquages manqués": {
+            "domicile": "22",
+            "exterieur": "26"
+          },
+          "Ballons joués au pied": {
+            "domicile": "17",
+            "exterieur": "15"
+          },
+          "Ballons passés": {
+            "domicile": "161",
+            "exterieur": "136"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 octobre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": "Bd",
+        "score": "25"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": null,
+        "score": "27"
+      },
+      "score": "25 - 27",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9344-paris-racing-92",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "34 %",
+            "exterieur": "66 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "4",
+            "exterieur": "7"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "3",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "17",
+            "exterieur": "16"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "12",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "4"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "5",
+            "exterieur": "5"
+          },
+          "Pénalités concédées": {
+            "domicile": "16",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "147",
+            "exterieur": "98"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "13",
+            "exterieur": "8"
+          },
+          "Plaquages manqués": {
+            "domicile": "16",
+            "exterieur": "14"
+          },
+          "Ballons joués au pied": {
+            "domicile": "20",
+            "exterieur": "23"
+          },
+          "Ballons passés": {
+            "domicile": "109",
+            "exterieur": "172"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "samedi 24 octobre",
+      "domicile": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": null,
+        "score": "15"
+      },
+      "exterieur": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "26"
+      },
+      "score": "15 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9345-agen-bayonne",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "60 %",
+            "exterieur": "40 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "81 %",
+            "exterieur": "19 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "40 %",
+            "exterieur": "60 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "63 %",
+            "exterieur": "37 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "15",
+            "exterieur": "9"
+          },
+          "Mêlées perdues": {
+            "domicile": "3",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "9",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "12",
+            "exterieur": "9"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "11",
+            "exterieur": "6"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "4"
+          },
+          "Pénalités concédées": {
+            "domicile": "14",
+            "exterieur": "15"
+          },
+          "Plaquages réussis": {
+            "domicile": "65",
+            "exterieur": "169"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "1",
+            "exterieur": "3"
+          },
+          "Plaquages manqués": {
+            "domicile": "13",
+            "exterieur": "11"
+          },
+          "Ballons joués au pied": {
+            "domicile": "12",
+            "exterieur": "13"
+          },
+          "Ballons passés": {
+            "domicile": "170",
+            "exterieur": "75"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "1",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 25 octobre",
+      "domicile": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": "Bo",
+        "score": "30"
+      },
+      "exterieur": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "30 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9346-montpellier-brive",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "4",
+            "exterieur": "0"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "46 %",
+            "exterieur": "54 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "47 %",
+            "exterieur": "53 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "52 %",
+            "exterieur": "48 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "12"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Mêlées gagnées": {
+            "domicile": "8",
+            "exterieur": "6"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Touches obtenues": {
+            "domicile": "16",
+            "exterieur": "14"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "13",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "15"
+          },
+          "Plaquages réussis": {
+            "domicile": "106",
+            "exterieur": "108"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "21",
+            "exterieur": "23"
+          },
+          "Ballons joués au pied": {
+            "domicile": "26",
+            "exterieur": "22"
+          },
+          "Ballons passés": {
+            "domicile": "122",
+            "exterieur": "136"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j6",
+      "date": "dimanche 25 octobre",
+      "domicile": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": null,
+        "score": "20"
+      },
+      "exterieur": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": null,
+        "score": "6"
+      },
+      "score": "20 - 6",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j6/9347-la-rochelle-bordeaux-begles",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "58 %",
+            "exterieur": "42 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "90 %",
+            "exterieur": "10 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "42 %",
+            "exterieur": "58 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "60 %",
+            "exterieur": "40 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "6",
+            "exterieur": "11"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "4",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Touches obtenues": {
+            "domicile": "19",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "18",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Pénalités concédées": {
+            "domicile": "12",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "93",
+            "exterieur": "128"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "6",
+            "exterieur": "8"
+          },
+          "Plaquages manqués": {
+            "domicile": "5",
+            "exterieur": "11"
+          },
+          "Ballons joués au pied": {
+            "domicile": "29",
+            "exterieur": "28"
+          },
+          "Ballons passés": {
+            "domicile": "124",
+            "exterieur": "107"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 31 octobre",
+      "domicile": {
+        "nom": "CA Brive",
+        "classement": "11e",
+        "bonus": null,
+        "score": "21"
+      },
+      "exterieur": {
+        "nom": "ASM Clermont",
+        "classement": "5e",
+        "bonus": "Bo",
+        "score": "43"
+      },
+      "score": "21 - 43",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9348-brive-clermont",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "6"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "41 %",
+            "exterieur": "59 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "56 %",
+            "exterieur": "44 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "45 %",
+            "exterieur": "55 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "4",
+            "exterieur": "15"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "3",
+            "exterieur": "10"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "3"
+          },
+          "Touches obtenues": {
+            "domicile": "12",
+            "exterieur": "17"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités concédées": {
+            "domicile": "17",
+            "exterieur": "12"
+          },
+          "Plaquages réussis": {
+            "domicile": "86",
+            "exterieur": "137"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "31",
+            "exterieur": "17"
+          },
+          "Ballons joués au pied": {
+            "domicile": "11",
+            "exterieur": "15"
+          },
+          "Ballons passés": {
+            "domicile": "147",
+            "exterieur": "121"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 31 octobre",
+      "domicile": {
+        "nom": "Castres Olympique",
+        "classement": "7e",
+        "bonus": null,
+        "score": "28"
+      },
+      "exterieur": {
+        "nom": "Racing 92",
+        "classement": "3e",
+        "bonus": "Bd",
+        "score": "26"
+      },
+      "score": "28 - 26",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9349-castres-racing-92",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "33 %",
+            "exterieur": "67 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "53 %",
+            "exterieur": "47 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "48 %",
+            "exterieur": "52 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "4",
+            "exterieur": "8"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "2",
+            "exterieur": "7"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "9",
+            "exterieur": "23"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "5",
+            "exterieur": "17"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "4",
+            "exterieur": "3"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "16",
+            "exterieur": "8"
+          },
+          "Plaquages réussis": {
+            "domicile": "115",
+            "exterieur": "78"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "6",
+            "exterieur": "0"
+          },
+          "Plaquages manqués": {
+            "domicile": "8",
+            "exterieur": "17"
+          },
+          "Ballons joués au pied": {
+            "domicile": "34",
+            "exterieur": "29"
+          },
+          "Ballons passés": {
+            "domicile": "83",
+            "exterieur": "112"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 31 octobre",
+      "domicile": {
+        "nom": "Union Bordeaux-Bègles",
+        "classement": "4e",
+        "bonus": "Bo",
+        "score": "71"
+      },
+      "exterieur": {
+        "nom": "SU Agen",
+        "classement": "14e",
+        "bonus": null,
+        "score": "5"
+      },
+      "score": "71 - 5",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9350-bordeaux-begles-agen",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "10",
+            "exterieur": "1"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "29 %",
+            "exterieur": "71 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "9",
+            "exterieur": "5"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "2"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "2"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "1"
+          },
+          "Touches obtenues": {
+            "domicile": "14",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "11",
+            "exterieur": "8"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "3",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "109",
+            "exterieur": "115"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "6",
+            "exterieur": "0"
+          },
+          "Plaquages manqués": {
+            "domicile": "11",
+            "exterieur": "26"
+          },
+          "Ballons joués au pied": {
+            "domicile": "17",
+            "exterieur": "13"
+          },
+          "Ballons passés": {
+            "domicile": "147",
+            "exterieur": "87"
+          },
+          "Carton yellow": {
+            "domicile": "1",
+            "exterieur": "2"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 01 novembre",
+      "domicile": {
+        "nom": "Section Paloise",
+        "classement": "12e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Stade Rochelais",
+        "classement": "2e",
+        "bonus": null,
+        "score": "35"
+      },
+      "score": "24 - 35",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9351-pau-la-rochelle",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "3",
+            "exterieur": "4"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "73 %",
+            "exterieur": "27 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "8",
+            "exterieur": "2"
+          },
+          "Mêlées perdues": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Mêlées gagnées": {
+            "domicile": "6",
+            "exterieur": "2"
+          },
+          "Mêlées refaites": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "16",
+            "exterieur": "19"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "14",
+            "exterieur": "15"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "1",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "1",
+            "exterieur": "3"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "105",
+            "exterieur": "152"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "3",
+            "exterieur": "8"
+          },
+          "Plaquages manqués": {
+            "domicile": "21",
+            "exterieur": "16"
+          },
+          "Ballons joués au pied": {
+            "domicile": "29",
+            "exterieur": "35"
+          },
+          "Ballons passés": {
+            "domicile": "163",
+            "exterieur": "138"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "dimanche 01 novembre",
+      "domicile": {
+        "nom": "Stade Français Paris",
+        "classement": "6e",
+        "bonus": "Bo",
+        "score": "48"
+      },
+      "exterieur": {
+        "nom": "Stade Toulousain",
+        "classement": "1e",
+        "bonus": null,
+        "score": "14"
+      },
+      "score": "48 - 14",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9352-paris-toulouse",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "6",
+            "exterieur": "2"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "49 %",
+            "exterieur": "51 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "51 %",
+            "exterieur": "49 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "14",
+            "exterieur": "6"
+          },
+          "Mêlées perdues": {
+            "domicile": "2",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "12",
+            "exterieur": "5"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Touches obtenues": {
+            "domicile": "11",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "10",
+            "exterieur": "10"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "En-avant commis": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Pénalités réussies": {
+            "domicile": "2",
+            "exterieur": "0"
+          },
+          "Pénalités concédées": {
+            "domicile": "11",
+            "exterieur": "8"
+          },
+          "Plaquages réussis": {
+            "domicile": "108",
+            "exterieur": "96"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "2",
+            "exterieur": "4"
+          },
+          "Plaquages manqués": {
+            "domicile": "5",
+            "exterieur": "17"
+          },
+          "Ballons joués au pied": {
+            "domicile": "26",
+            "exterieur": "14"
+          },
+          "Ballons passés": {
+            "domicile": "136",
+            "exterieur": "109"
+          },
+          "Carton yellow": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "samedi 21 novembre",
+      "domicile": {
+        "nom": "Aviron Bayonnais",
+        "classement": "13e",
+        "bonus": null,
+        "score": "35"
+      },
+      "exterieur": {
+        "nom": "RC Toulon",
+        "classement": "8e",
+        "bonus": null,
+        "score": "29"
+      },
+      "score": "35 - 29",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9353-bayonne-toulon",
+      "statistiques": {
+        "stats_collectives": {
+          "Essais accordés": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Possession de la balle": {
+            "domicile": "50 %",
+            "exterieur": "50 %"
+          },
+          "Occupation": {
+            "domicile": "41 %",
+            "exterieur": "59 %"
+          },
+          "Possession dans son camp": {
+            "domicile": "22 %",
+            "exterieur": "78 %"
+          },
+          "Possession dans le camp adverse": {
+            "domicile": "60 %",
+            "exterieur": "40 %"
+          },
+          "Possession 22m adverses": {
+            "domicile": "44 %",
+            "exterieur": "56 %"
+          },
+          "Mêlées obtenues": {
+            "domicile": "1",
+            "exterieur": "11"
+          },
+          "Mêlées perdues": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "Mêlées gagnées": {
+            "domicile": "1",
+            "exterieur": "8"
+          },
+          "Mêlées refaites": {
+            "domicile": "0",
+            "exterieur": "2"
+          },
+          "Touches obtenues": {
+            "domicile": "10",
+            "exterieur": "13"
+          },
+          "Touches gagnées sur son propre lancer": {
+            "domicile": "7",
+            "exterieur": "12"
+          },
+          "Touches gagnées sur lancer adverse": {
+            "domicile": "0",
+            "exterieur": "1"
+          },
+          "En-avant commis": {
+            "domicile": "3",
+            "exterieur": "1"
+          },
+          "Pénalités réussies": {
+            "domicile": "7",
+            "exterieur": "1"
+          },
+          "Pénalités concédées": {
+            "domicile": "13",
+            "exterieur": "13"
+          },
+          "Plaquages réussis": {
+            "domicile": "91",
+            "exterieur": "81"
+          },
+          "Plaquages offensifs réussis": {
+            "domicile": "5",
+            "exterieur": "2"
+          },
+          "Plaquages manqués": {
+            "domicile": "9",
+            "exterieur": "14"
+          },
+          "Ballons joués au pied": {
+            "domicile": "22",
+            "exterieur": "18"
+          },
+          "Ballons passés": {
+            "domicile": "77",
+            "exterieur": "89"
+          },
+          "Carton yellow": {
+            "domicile": "2",
+            "exterieur": "3"
+          },
+          "Carton orange": {
+            "domicile": "0",
+            "exterieur": "0"
+          },
+          "Carton red": {
+            "domicile": "0",
+            "exterieur": "0"
+          }
+        }
+      }
+    },
+    {
+      "journee": "j7",
+      "date": "mercredi 06 janvier",
+      "domicile": {
+        "nom": "LOU Rugby",
+        "classement": "9e",
+        "bonus": null,
+        "score": "24"
+      },
+      "exterieur": {
+        "nom": "Montpellier Hérault Rugby",
+        "classement": "10e",
+        "bonus": "Bd",
+        "score": "20"
+      },
+      "score": "24 - 20",
+      "lien_feuille_match": "https://top14.lnr.fr/feuille-de-match/2020-2021/j7/9354-lyon-montpellier",
+      "statistiques": {}
+    }
+  ]
+}

@@ -11,7 +11,7 @@ import csv
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-SAISON = "2016-2017"   # ← change ici (ex: "2024-2025")
+SAISON = "2020-2021"   # ← change ici (ex: "2024-2025")
 BASE_URL = "https://top14.lnr.fr"
 HEADERS = {
     "User-Agent": (
